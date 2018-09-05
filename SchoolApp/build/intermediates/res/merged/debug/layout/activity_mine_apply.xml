@@ -1,0 +1,339 @@
+ <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    tools:context="com.school.schoolapp.activity.mine.work.MineApplyActivity"
+    android:focusable="true"  
+    android:focusableInTouchMode="true">
+ 
+    <Button android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="立即申请"
+            android:background="@drawable/actionbar_color"
+            android:id="@+id/applyBtn"
+            android:layout_alignParentBottom="true"/>
+    
+    <ScrollView 
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/title_common_background"
+    android:layout_alignParentTop="true"
+    android:layout_above="@+id/applyBtn">
+		<RelativeLayout 
+		    android:layout_width="match_parent"
+		    android:layout_height="fill_parent" >
+		
+		    <LinearLayout android:orientation="vertical"
+		        android:layout_height="fill_parent"
+		        android:layout_width="match_parent"
+		        android:background="@drawable/title_common_background">
+		        <LinearLayout android:orientation="horizontal"
+		            android:layout_width="match_parent"
+		            android:layout_height="150dp"
+		            android:background="@drawable/white_background"
+		            android:paddingLeft="20dp"
+		            android:paddingRight="20dp">
+		            <LinearLayout android:orientation="vertical"
+		                android:layout_width="match_parent"
+		                android:layout_height="match_parent"
+		                android:layout_weight="1"
+		                android:gravity="center">
+		                <ImageView android:layout_height="60dp"
+		                    android:layout_width="60dp"
+		                    android:src="@drawable/icon_mine_apply01"/>
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:text="认识我们"
+		                    android:layout_marginTop="10dp"/>
+		            </LinearLayout>
+		            <LinearLayout android:orientation="vertical"
+		                android:layout_width="match_parent"
+		                android:layout_height="match_parent"
+		                android:layout_weight="1"
+		                android:gravity="center">
+		                <ImageView android:layout_height="60dp"
+		                    android:layout_width="60dp"
+		                    android:src="@drawable/icon_mine_apply02_highlight"/>
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:text="填写申请"
+		                    android:layout_marginTop="10dp"/>
+		            </LinearLayout>
+		            <LinearLayout android:orientation="vertical"
+		                android:layout_width="match_parent"
+		                android:layout_height="match_parent"
+		                android:layout_weight="1"
+		                android:gravity="center">
+		                <ImageView android:layout_height="60dp"
+		                    android:layout_width="60dp"
+		                    android:src="@drawable/icon_mine_apply03"/>
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:text="申请成功"
+		                    android:layout_marginTop="10dp"/>
+		            </LinearLayout>
+		            
+		        </LinearLayout>
+		        
+		        <LinearLayout android:orientation="vertical"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:layout_marginTop="10dp"
+		            android:background="@drawable/white_background">
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:text="我的姓名"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+		                <EditText android:layout_width="match_parent"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:hint="请填写你的真实姓名"
+		                    android:layout_marginRight="@dimen/mine_apply_info_marginright"
+		                    android:gravity="right"
+		                    android:id="@+id/realname"
+		                    android:background="@null"/>
+		            </LinearLayout>
+		            
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="1dp"
+		                android:background="@drawable/title_common_background"
+		                android:layout_marginLeft="10dp"
+		                android:layout_marginRight="10dp"></LinearLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:text="我的性别"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+		                <RadioGroup android:layout_width="match_parent"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginRight="@dimen/mine_apply_info_marginright"
+		                    android:orientation="horizontal"
+		                    android:gravity="right"
+		                    android:id="@+id/sexGroup">
+		                    <RadioButton android:id="@+id/manBtn"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text="男"
+		                        android:checked="true"/>
+		                    <RadioButton android:id="@+id/womanBtn"
+		                        android:layout_width="wrap_content"
+		                        android:layout_height="wrap_content"
+		                        android:text="女"/>
+		                </RadioGroup>
+		                <!-- <EditText android:layout_width="match_parent"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:hint="请选择你的性别"
+		                    android:layout_marginRight="@dimen/mine_apply_info_marginright"
+		                    android:gravity="right"
+		                    android:background="@null"/> -->
+		            </LinearLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="1dp"
+		                android:background="@drawable/title_common_background"
+		                android:layout_marginLeft="10dp"
+		                android:layout_marginRight="10dp"></LinearLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:text="手机号码"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+		                <TextView android:layout_width="match_parent"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:id="@+id/phoneNum"
+		                    android:layout_marginRight="@dimen/mine_apply_info_marginright"
+		                    android:gravity="right"
+		                    android:background="@null"/>
+		            </LinearLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="1dp"
+		                android:background="@drawable/title_common_background"
+		                android:layout_marginLeft="10dp"
+		                android:layout_marginRight="10dp"></LinearLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+		                android:onClick="cityChoose">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:text="城市"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+		                <TextView android:layout_width="match_parent"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginRight="@dimen/mine_apply_info_marginright"
+		                    android:gravity="right"
+		                    android:background="@null"
+		                    android:id="@+id/city"/>
+		            </LinearLayout>
+		            <TextView 
+		                android:layout_width="match_parent"
+		                android:layout_height="1dp"
+		                android:background="@drawable/title_common_background"
+		                android:layout_marginLeft="10dp"
+		                android:layout_marginRight="10dp"/>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+		                android:onClick="schoolChoose">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:text="学校"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+		                <TextView android:layout_width="match_parent"
+		                    android:layout_height="wrap_content"
+		                    android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom"
+		                    android:layout_marginRight="@dimen/mine_apply_info_marginright"
+		                    android:gravity="right"
+		                    android:id="@+id/school"/>
+		            </LinearLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="1dp"
+		                android:background="@drawable/title_common_background"
+		                android:layout_marginLeft="10dp"
+		                android:layout_marginRight="10dp"></LinearLayout>
+		            <RelativeLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+	                    android:paddingTop="@dimen/mine_apply_info_margintopbottom"
+	                    android:paddingBottom="@dimen/mine_apply_info_margintopbottom"
+	                    android:onClick="buildingUpload">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:text="楼栋"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+		                    
+			                <ImageView android:layout_height="@dimen/user_menu_arrow_next_height"
+			                android:layout_width="@dimen/user_menu_arrow_next_height"
+			                android:src="@drawable/icon_arrow_next"
+			                android:scaleType="fitXY"
+			                android:id="@+id/unitImageView"
+			                android:layout_alignParentRight="true"
+			                android:layout_centerVertical="true"
+			                android:layout_marginRight="20dp"/>
+			                  
+			                <TextView
+			                    android:id="@+id/unitBtn"
+			                    android:text="选择楼栋" 
+			                    android:layout_width="wrap_content"
+			                    android:layout_height="wrap_content"
+			                    android:layout_centerVertical="true"
+			                    android:layout_marginRight="10dp"
+			                    android:layout_toLeftOf="@+id/unitImageView"
+			                    android:background="@null"
+			                    android:textSize="16sp"
+			                    android:textColor="@drawable/dark_gray_color"/>
+		
+		            </RelativeLayout>
+		            <LinearLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="1dp"
+		                android:background="@drawable/title_common_background"
+		                android:layout_marginLeft="10dp"
+		                android:layout_marginRight="10dp"></LinearLayout>
+		            <RelativeLayout android:orientation="horizontal"
+		                android:layout_width="match_parent"
+		                android:layout_height="wrap_content"
+	                    android:paddingTop="@dimen/mine_apply_info_margintopbottom"
+	                    android:paddingBottom="@dimen/mine_apply_info_margintopbottom"
+	                    android:onClick="cardUpload">
+		                <TextView android:layout_width="wrap_content"
+		                    android:layout_height="wrap_content"
+		                    android:text="我的证件"
+		                    android:textSize="18sp"
+		                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"
+		                    />
+		                    
+		                <ImageView android:layout_height="@dimen/user_menu_arrow_next_height"
+			                android:layout_width="@dimen/user_menu_arrow_next_height"
+			                android:src="@drawable/icon_arrow_next"
+			                android:scaleType="fitXY"
+			                android:id="@+id/arrowImageView"
+			                android:layout_alignParentRight="true"
+			                android:layout_marginRight="20dp"
+			                android:layout_centerVertical="true"/>
+		                  
+		                <TextView
+		                    android:id="@+id/cardBtn"
+		                    android:layout_width="wrap_content"
+			                android:layout_height="wrap_content"
+			                android:layout_centerVertical="true"
+		                    android:layout_marginRight="10dp"
+		                    android:layout_toLeftOf="@+id/arrowImageView"
+		                    android:background="@null"
+		                    android:text="未上传" 
+		                    android:textSize="16sp"
+		                    android:textColor="@drawable/dark_gray_color"/>
+		
+		            </RelativeLayout>
+		        </LinearLayout>
+		        <LinearLayout android:orientation="horizontal"
+		            android:layout_width="match_parent"
+		            android:layout_height="wrap_content"
+		            android:background="@drawable/white_background"
+		            android:layout_marginTop="10dp"
+		            android:gravity="center">
+		            <TextView android:text="点击【立即申请】，即表示您同意"
+		                android:layout_height="wrap_content"
+		                android:layout_width="wrap_content"
+		                android:layout_marginTop="5dp"
+		                android:layout_marginBottom="5dp"
+		                android:gravity="center"/>
+		            <Button android:id="@+id/agreement"
+		                android:text="《楼层CEO合作协议》" 
+		                android:background="@null"
+		                android:layout_height="wrap_content"
+		                android:layout_width="wrap_content"
+		                android:textSize="15sp"
+		                android:gravity="center"/>
+		        </LinearLayout>
+		        
+		       <!--  <RelativeLayout android:orientation="horizontal"
+		            android:layout_width="match_parent"
+		            android:layout_height="fill_parent"
+		            android:gravity="bottom"
+		            android:background="@drawable/white_background">
+		            
+		        </RelativeLayout> -->
+		        </LinearLayout>
+		        
+		
+		        
+		</RelativeLayout>
+    </ScrollView>
+</RelativeLayout>

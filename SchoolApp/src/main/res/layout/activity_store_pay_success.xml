@@ -1,0 +1,64 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.store.StorePaySuccessActivity"
+    android:background="@drawable/white_background" >
+    <ImageView android:id="@+id/img"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerInParent="true"
+        android:padding="80dp"/>
+    <!-- <TextView android:id="@+id/phone"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="服务热线:400-888-8888"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="40dp"
+        android:layout_centerHorizontal="true"/> -->
+
+    <!-- <RelativeLayout android:id="@+id/msg"
+        android:layout_height="150dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/actionbar_color">
+        <TextView android:id="@+id/gxn"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="恭喜你"
+            android:textSize="20sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"/>
+        
+        <TextView android:id="@+id/success"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="付款成功"
+            android:textSize="25sp"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/gxn"/>
+        
+    </RelativeLayout>
+    
+    <Button android:id="@+id/bill"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="查看订单详情"
+        android:textSize="12sp"
+        android:background="@null"
+        android:layout_below="@+id/msg"
+        android:textColor="@drawable/dark_gray_color"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"/>
+    
+    
+    
+    <ImageView android:id="@+id/img"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:src="@drawable/logo_x144"
+        android:layout_centerHorizontal="true"
+        android:layout_above="@+id/phone"
+        android:layout_marginBottom="20dp"/> -->
+    
+</RelativeLayout>

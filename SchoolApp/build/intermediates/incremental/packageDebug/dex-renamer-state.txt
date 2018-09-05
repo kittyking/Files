@@ -1,0 +1,7 @@
+#Tue Sep 04 14:59:43 CST 2018
+base.0=/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31c60cc9a835428ecb1b1fc4a8458b16dc9c2e22
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_952fb6210511102ff45e8ccc241880fe2f623ffd/classes.dex
+base.1=/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_952fb6210511102ff45e8ccc241880fe2f623ffd
+file.0=/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31c60cc9a835428ecb1b1fc4a8458b16dc9c2e22/classes.dex

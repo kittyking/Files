@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:background="@drawable/title_common_background">
+    <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:id="@+id/cartLayout"
+                android:background="@drawable/background_cart_white">
+
+                <LinearLayout android:id="@+id/cartsLinear"
+                    android:orientation="horizontal"
+                    android:layout_height="wrap_content"
+                    android:layout_width="40dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="30dp">
+                    <ImageView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:src="@drawable/icon_cart"/>
+                </LinearLayout>
+                
+                <TextView android:id="@+id/cartMoney"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="￥23.23"
+                    android:textColor="@drawable/red_textcolor" 
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:layout_marginLeft="20dp"/>
+                <Button android:text="立即购买"
+                    android:background="@drawable/background_cart_blue"
+                    android:layout_height="30dp"
+                    android:id="@+id/buyBtn"
+                    android:textSize="12sp"
+                    android:textColor="@drawable/white_background"
+                    android:layout_marginLeft="100dp"
+                    android:layout_width="wrap_content"
+                    android:layout_marginRight="20dp"
+                    android:layout_marginTop="10dp"/>
+
+            </LinearLayout>
+            
+           <ImageButton android:id="@+id/close"
+        android:layout_height="40dp"
+        android:layout_width="40dp"
+        android:src="@drawable/icon_good_detail_close"
+        android:background="@null"/>
+           <ListView android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/cartListView"
+            android:divider="@null"
+            android:layout_below="@+id/close"
+            android:layout_above="@+id/cartLayout"
+            android:background="@drawable/title_common_background"> 
+            </ListView>
+            
+
+</RelativeLayout>

@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.workspace.MineWorkspaceAddGoodsActivity"
+    android:orientation="vertical"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:id="@+id/header"
+        android:layout_height="44dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/actionbar_color"
+        android:layout_alignParentTop="true">
+        <ImageButton android:onClick="finish"
+	      android:id="@+id/backButton"
+	      android:layout_width="44dp"
+	      android:layout_height="44dp" 
+	      android:scaleType="fitXY"
+	      android:background="@null"
+	      android:src="@drawable/icon_arrow_back"
+	      android:padding="12dp"
+	      android:layout_alignParentLeft="true"/>
+	  <TextView android:id="@+id/storename"
+	      android:layout_width="match_parent"
+	      android:layout_height="44dp"
+	      android:textSize="18sp"
+	      android:gravity="center"
+	      android:textColor="@drawable/black_background"
+	      android:layout_toRightOf="@+id/backButton"
+	      android:paddingRight="44dp"/>
+	  
+    </RelativeLayout>
+    <RadioGroup android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:orientation="horizontal"
+        android:id="@+id/typeRG"
+        android:layout_below="@+id/header">
+        <RadioButton android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="未添加商品"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:checked="true"
+            android:background="@drawable/selector_goods_add_radiobtn"
+            android:textColor="@drawable/selector_goods_add_textcolor"
+            android:id="@+id/weiRB"/>
+        <RadioButton android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="已添加商品"
+            android:layout_weight="1"
+            android:button="@null"
+            android:gravity="center"
+            android:background="@drawable/selector_goods_add_radiobtn"
+            android:textColor="@drawable/selector_goods_add_textcolor"
+            android:id="@+id/yiRB"/>
+        
+    </RadioGroup>
+    <LinearLayout android:background="@drawable/title_common_background"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/typeRG">
+        
+    </LinearLayout>
+    <android.support.design.widget.TabLayout
+	    android:id="@+id/indicator"  
+	    android:background="@drawable/white_background"  
+	    android:layout_height="44dp"  
+	    android:layout_width="fill_parent"
+	    android:layout_marginTop="1dp"
+	    android:layout_below="@+id/typeRG"
+		app:tabMode="scrollable"
+		app:tabIndicatorColor="@drawable/red_textcolor"
+		app:tabSelectedTextColor="@drawable/red_textcolor"
+		app:tabTextColor="@drawable/black_background"/>
+    <LinearLayout android:background="@drawable/title_common_background"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/indicator">
+        
+    </LinearLayout>
+    <android.support.v4.view.ViewPager 
+        android:id="@+id/goodsViewPager"
+	    android:layout_height="fill_parent"
+	    android:layout_width="fill_parent"
+	    android:layout_below="@+id/indicator"
+	    android:layout_marginTop="1dp">
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout>

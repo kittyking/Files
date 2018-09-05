@@ -1,0 +1,101 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.login.UserFastLoginActivity"
+    android:background="@drawable/background_login" 
+    android:onClick="hideKeyboard">
+    
+    <ImageView android:id="@+id/icon"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:scaleType="fitXY"
+        android:src="@drawable/logo_login"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="70dp"/>
+    <ImageView android:id="@+id/txt"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:scaleType="fitXY"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/text_login"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/icon"/>
+    
+    <EditText android:id="@+id/phoneEditText"
+            android:layout_height="44dp"
+            android:layout_width="match_parent"
+            android:hint="请输入手机号"
+            android:textSize="18sp"
+            android:numeric="integer"
+            android:background="@drawable/background_login_phone"
+            android:textColor="@drawable/white_background"
+            android:layout_below="@+id/txt"
+            android:textColorHint="@drawable/white_background"
+            android:layout_marginTop="120dp"
+            android:layout_alignLeft="@+id/txt"
+            android:layout_toLeftOf="@+id/verifyBtn"/>
+
+        <Button android:id="@+id/verifyBtn"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="发送验证码"
+            android:layout_alignTop="@+id/phoneEditText"
+            android:layout_alignBottom="@+id/phoneEditText"
+            android:layout_alignRight="@+id/txt"
+            android:textColor="@drawable/white_background"
+            android:background="@drawable/selector_verify_background_yellow"
+            android:textSize="15sp"/>
+        <EditText android:id="@+id/verifyEditText"
+            android:layout_height="44dp"
+            android:layout_width="match_parent"
+            android:hint="请输入短信验证码"
+            android:textSize="18sp"
+            android:textColor="@drawable/white_background"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/background_login_phone"
+            android:layout_below="@+id/phoneEditText"
+            android:layout_alignLeft="@+id/phoneEditText"
+            android:layout_alignRight="@+id/verifyBtn"
+            android:textColorHint="@drawable/white_background"/>
+        
+        
+    <Button android:id="@+id/loginBtn"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="登录"
+            android:layout_marginTop="30dp"
+            android:layout_below="@+id/verifyEditText"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/selector_submit_background_yellow"/>
+    <TextView android:id="@+id/explainTxt"
+        android:layout_below="@+id/loginBtn"
+        android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="点击【登录】，即表示您同意"
+            android:textSize="10sp"
+            android:layout_marginTop="30dp"
+            android:textColor="@drawable/white_background"
+            android:layout_alignLeft="@+id/verifyEditText"/>
+        <Button android:id="@+id/explainBtn"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:text="《师兄盒子注册协议》"
+            android:textSize="10sp"
+            android:textColor="@drawable/yellow_textcolor"
+            android:background="@null"
+            android:layout_alignTop="@+id/explainTxt"
+            android:layout_alignBottom="@+id/explainTxt"
+            android:layout_toRightOf="@+id/explainTxt"/>
+        <!-- 
+    
+    <Button android:id="@+id/pwdBtn"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:textSize="12sp"
+            android:text="使用密码登录"
+            android:background="@null"
+            android:visibility="gone"/>
+         -->
+
+</RelativeLayout>

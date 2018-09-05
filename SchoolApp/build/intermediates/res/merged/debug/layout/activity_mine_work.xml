@@ -1,0 +1,232 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:tools="http://schemas.android.com/tools"
+     tools:context="com.school.schoolapp.activity.mine.work.MineWorkActivity" 
+     android:layout_width="match_parent"
+     android:layout_height="match_parent">
+     <LinearLayout android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="50dp"
+    android:layout_alignParentBottom="true"
+    android:id="@+id/bottom">
+    <Button android:background="@drawable/actionbar_color"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:text="申请楼层CEO"
+        android:id="@+id/ceoBtn"/>
+</LinearLayout>
+     <ScrollView android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/title_common_background"
+    android:layout_above="@+id/bottom">
+
+    <LinearLayout android:orientation="vertical"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:background="@drawable/white_background"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp">
+            <LinearLayout android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+                <ImageView android:layout_height="60dp"
+                    android:layout_width="60dp"
+                    android:src="@drawable/icon_mine_apply01_highlight"/>
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="认识我们"
+                    android:layout_marginTop="10dp"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+                <ImageView android:layout_height="60dp"
+                    android:layout_width="60dp"
+                    android:src="@drawable/icon_mine_apply02"/>
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="填写申请"
+                    android:layout_marginTop="10dp"/>
+            </LinearLayout>
+            <LinearLayout android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:gravity="center">
+                <ImageView android:layout_height="60dp"
+                    android:layout_width="60dp"
+                    android:src="@drawable/icon_mine_apply03"/>
+                <TextView android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="申请成功"
+                    android:layout_marginTop="10dp"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/white_background">
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="关于我们"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/title_common_background"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"></LinearLayout>
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@drawable/dark_gray_color"
+                android:textSize="14sp"
+                android:text="师兄盒子—校园轻生活管家，国内首创校园移动互联网全生态链服务平台，着力从“消费模式、服务模式、大学生创业”等方面出发，立足于安徽、面向全国。秉承着“技能输出、技能养成、能力测评、企业对接”的核心理念，提供给在校大学生从生活、学习、工作、创业等各个方面的优质服务。\n\n核心业务：个性化服务、西游学院\n\n主要业务：夜猫店、西游云印、西游餐厅、西游兼职\n\n楼层CEO—夜猫店店长介绍：\n\n主要工作内容：\n1、负责夜猫店的日常运营、宣传、维护\n2、负责师兄盒子app的分发下载\n3、负责相关品牌广告合作代理\n\n待遇介绍：\n1、夜猫店营业额12%提成加阶梯式奖励制度\n2、完善的晋升渠道\n3、青春创业夏令营参与资格，学习创业经验\n4、优秀的店长可提供实习证明及毕业推荐背书\n5、校园品牌代理，获取丰厚收益\n\n没有时间？\n灵活的工作时间，你可以结合自身情况安排营业时间，打开后台即可开启营业或休息状态\n\n没有资金？\nNO!NO!NO!所有商品均由平台提供，店长无需自掏腰包\n\n没有经验？\n我们有完善的新人培训计划，手把手教你店铺运营\n\n另外我们后续还有更多的业务可供选择哦，如零食盒子—随想随用，轻松赚钱；西游云印—所有收入均归店长。加入师兄盒子，和众多的服务提供者一样，青春创业齐出发，服务同学好管家！！"/>
+        </LinearLayout>
+        <!-- <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:background="@drawable/white_background">
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="核心业务"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/title_common_background"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"></LinearLayout>
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"
+                android:layout_marginLeft="10dp"
+                android:textColor="@drawable/dark_gray_color"
+                android:textSize="12sp"
+                android:text="百度是全球最大的中文搜索引擎？是一款有6亿用户在使用的手机搜索客户端，依托百度网页、百度图片、百度新闻、百度知道、百度百科、百度地图、百度音乐、百度视频等专业垂直搜索频道，方便用户随时随地使用百度搜索服务。"/>
+        </LinearLayout> -->
+        
+        <!-- <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/white_background">
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="关于我们"
+                android:layout_marginLeft="10dp"
+                android:gravity="center_vertical"
+                android:paddingTop="10dp"
+                android:paddingBottom="10dp"/>
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/title_common_background"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"></LinearLayout>
+            <LinearLayout android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+                    <TextView android:text="职位一"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@drawable/dark_gray_color"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                    <TextView android:text="楼层CEO"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp">
+                    <TextView android:text="待遇福利"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@drawable/dark_gray_color"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                    <TextView android:text="月薪2000起"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                </LinearLayout>
+            </LinearLayout>
+             <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="@drawable/title_common_background"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"></LinearLayout>
+              <LinearLayout android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+                <LinearLayout android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:paddingBottom="10dp">
+                    <TextView android:text="职位二"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@drawable/dark_gray_color"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                    <TextView android:text="帮忙人"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                </LinearLayout>
+                <LinearLayout android:orientation="horizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingBottom="10dp">
+                    <TextView android:text="待遇福利"
+                        android:layout_width="50dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="@drawable/dark_gray_color"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                    <TextView android:text="月薪2000起"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:textSize="12sp"
+                        android:layout_marginLeft="10dp"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout> -->
+    </LinearLayout>
+    
+
+</ScrollView>
+
+</RelativeLayout>

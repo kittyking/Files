@@ -1,0 +1,26 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/title_common_background"
+    tools:context="com.school.schoolapp.activity.billing.BillingAddressActivity" >
+    
+    <Button android:background="@drawable/actionbar_color"
+        android:layout_height="44dp"
+        android:layout_width="match_parent"
+        android:text="添加收货地址"
+        android:id="@+id/addBtn"
+        android:layout_alignParentBottom="true"/>
+    
+    <ListView
+        android:id="@+id/addressLV"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/addBtn"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="10dp"
+        android:divider="@null" >
+        
+    </ListView>
+
+</RelativeLayout>

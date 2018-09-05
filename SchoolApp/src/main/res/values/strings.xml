@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">师兄盒子</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_login">UserLoginActivity</string>
+    <string name="title_activity_home_page">HomePageActivity</string>
+    <string name="title_activity_user_register">UserRegisterActivity</string>
+    <string name="title_activity_user_fast_login">UserFastLoginActivity</string>
+    <string name="title_activity_user_recoverd">UserRecoverdActivity</string>
+    <!-- 接口地址 -->
+    <!-- <string name="base_url">http://app.shxbox.com/</string> -->
+    <string name="base_url">http://app.wuque-store.com/</string>
+    <string name="base_image_url">http://shopapp.chunchennet.cn/uploadfiles/</string>
+    <string name="image_upload_base64">index.php?m=home&amp;c=index&amp;a=UpBase64</string>
+    <string name="get_app_config">index.php?m=home&amp;c=public&amp;a=GetAppConfig</string>
+    <!-- 登录模块 -->
+    <string name="user_login_url">index.php?m=home&amp;c=index&amp;a=login</string>
+    <string name="user_register_url">index.php?m=home&amp;c=index&amp;a=register</string>
+    <string name="user_recovered_url">index.php?m=home&amp;c=index&amp;a=findpwd</string>
+    <string name="user_verify_url">index.php?m=home&amp;c=index&amp;a=sendMsg</string>
+    <string name="user_login_fast">index.php?m=home&amp;c=index&amp;a=fastlogin</string>
+    <string name="user_city_get">index.php?m=home&amp;c=index&amp;a=GetCityList</string>
+    <string name="user_school_get">index.php?m=home&amp;c=index&amp;a=GetSchoolList</string>
+    <string name="user_school_set">index.php?m=home&amp;c=index&amp;a=SetUserSchool</string>
+    <string name="user_school_by_city">index.php?m=home&amp;c=index&amp;a=GetSchoolByCity</string>
+    <string name="user_city_shop_set">index.php?m=home&amp;c=index&amp;a=SetUserShopCity</string>
+    <string name="user_get_info">index.php?m=home&amp;c=index&amp;a=GetUserInfo</string>
+    <string name="user_set_info">index.php?m=home&amp;c=index&amp;a=SetUserInfo</string>
+    <!-- 用户模块 -->
+    <string name="user_set_city">index.php?m=home&amp;c=index&amp;a=SetUserCity</string>
+    <string name="user_address_get">index.php?m=home&amp;c=index&amp;a=GetUserAddressList</string>
+    <string name="user_address_add">index.php?m=home&amp;c=index&amp;a=AddUserAddress</string>
+    <string name="user_address_edit">index.php?m=home&amp;c=index&amp;a=EditUserAddress</string>
+    <string name="user_address_update">index.php?m=home&amp;c=index&amp;a=UpdateUserAddress</string>
+    <string name="user_address_default">index.php?m=home&amp;c=index&amp;a=UserAddress</string>
+    <string name="user_builling_by_school">index.php?m=home&amp;c=index&amp;a=GetFloorList</string>
+    <string name="user_builling_by_schoolid">index.php?m=home&amp;c=index&amp;a=GetFloorBySchool</string>
+    <string name="user_builling_choice">index.php?m=home&amp;c=index&amp;a=SetUserFloor</string>
+    <string name="work_apply_info">index.php?m=home&amp;c=index&amp;a=GetUserWaiterInfo</string>
+    <string name="work_apply_submit">index.php?m=home&amp;c=index&amp;a=ApplyWaiter</string>
+    <string name="work_card_upload">index.php?m=home&amp;c=index&amp;a=UpBase64</string>
+    <string name="store_bind_shop">index.php?m=home&amp;c=index&amp;a=SetUserShop</string>
+    <string name="store_get_shop_info">index.php?m=home&amp;c=index&amp;a=GetShopBasisInfo</string>
+    <string name="store_get_goods_list">index.php?m=home&amp;c=index&amp;a=GetGoodsList</string>
+    <string name="category_get">index.php?m=home&amp;c=index&amp;a=GetSchoolCategoryList</string>
+    <string name="user_get_coupon">index.php?m=home&amp;c=index&amp;a=GetUserCoupon</string>
+    <!-- 便利店模块 -->
+    <string name="store_get_shop_list">index.php?m=home&amp;c=index&amp;a=GetShopList</string>
+    <string name="store_get_good_detail">index.php?m=home&amp;c=index&amp;a=GetGoodsDetail</string>
+    <!-- 支付模块 -->
+    <string name="pay_order_online">index.php?m=home&amp;c=index&amp;a=OnlinePayOrder</string>
+    <string name="pay_get_sign">index.php?m=home&amp;c=index&amp;a=GetAlipaySign</string>
+    <string name="pay_get_sign_wx">index.php?m=home&amp;c=index&amp;a=GetWeixinSign</string>
+    <string name="pay_order_blance">index.php?m=home&amp;c=index&amp;a=BlancePayOrder</string>
+    <string name="pay_get_status">index.php?m=home&amp;c=index&amp;a=GetOrderPayStatus</string>
+    <string name="wallet_get_balace">index.php?m=home&amp;c=index&amp;a=GetMemberBlance</string>
+    <string name="wallet_recharge">index.php?m=home&amp;c=index&amp;a=MemberRecharge</string>
+    <string name="wallet_detail">index.php?m=home&amp;c=index&amp;a=GetMemberMoneyDetails</string>
+
+    <!-- 工作台添加商品模块 -->
+    <string name="workspace_goodsadd_getgoodslist">index.php?m=home&amp;c=shop&amp;a=GetNoAddedGoodsList</string>
+    <string name="workspace_goodsadd_getgoodsaddedlist">index.php?m=home&amp;c=shop&amp;a=GetAddedGoodsList</string>
+    <string name="workspace_goodsadd_add">index.php?m=home&amp;c=shop&amp;a=AddShopGoods</string>
+    <string name="workspace_goodsadd_del">index.php?m=home&amp;c=shop&amp;a=DelShopGoods</string>
+    <string name="workspace_goodsadd_noaddcount">index.php?m=home&amp;c=shop&amp;a=GetNoAddedGoodsCount</string>
+    <string name="workspace_replenish_getgoodslist">index.php?m=home&amp;c=shop&amp;a=SupplementGoods</string>
+    <string name="workspace_replenish_uploadgoodslist">index.php?m=home&amp;c=shop&amp;a=DoSupplementGoods</string>
+
+    <!-- 工作台模块 -->
+    <string name="workspace_page_main">index.php?m=home&amp;c=shop&amp;a=WorkPage</string>
+    <string name="workspace_work_status">index.php?m=home&amp;c=shop&amp;a=ShopOpenType</string>
+    <string name="workspace_iswater">index.php?m=home&amp;c=index&amp;a=GetUserWaiterStatus</string>
+    <string name="workspace_cash">index.php?m=home&amp;c=shop&amp;a=ShopWithdraw</string>
+    <!-- 工作台商品管理模块 -->
+    <string name="workspace_goodmanager_nosalegoodscount">index.php?m=home&amp;c=shop&amp;a=GetShopNoSaleGoodsCount</string>
+    <string name="workspace_goodmanager_nosalegoods">index.php?m=home&amp;c=shop&amp;a=GetShopNoSaleGoodsList</string>
+    <string name="workspace_goodmanager_salegoods">index.php?m=home&amp;c=shop&amp;a=GetShopSaleGoodsList</string>
+    <string name="workspace_goodmanager_topgoods">index.php?m=home&amp;c=shop&amp;a=GetShopTopGoodsList</string>
+    <string name="workspace_goodmanager_hotsalegoods">index.php?m=home&amp;c=shop&amp;a=GetShopHotGoodsList</string>
+    <string name="workspace_goodmanager_setupsalegoods">index.php?m=home&amp;c=shop&amp;a=SetUpSaleGoods</string>
+    <string name="workspace_goodmanager_setdownsalegoods">index.php?m=home&amp;c=shop&amp;a=SetDownSaleGoods</string>
+    <string name="workspace_goodmanager_sethotsalegoods">index.php?m=home&amp;c=shop&amp;a=SetHotGoods</string>
+    <string name="workspace_goodmanager_setnohotsalegoods">index.php?m=home&amp;c=shop&amp;a=SetNoHotGoods</string>
+    <string name="workspace_goodmanager_settopsalegoods">index.php?m=home&amp;c=shop&amp;a=SetTopGoods</string>
+    <string name="workspace_goodmanager_setnotopsalegoods">index.php?m=home&amp;c=shop&amp;a=SetNoTopGoods</string>
+    <!-- 工作台上班模块 -->
+    <string name="workspace_shop_open">index.php?m=home&amp;c=shop&amp;a=ShopOpened</string>
+    <string name="workspace_shop_close">index.php?m=home&amp;c=shop&amp;a=ShopClosed</string>
+    <string name="workspace_shopInfo_get">index.php?m=home&amp;c=shop&amp;a=GetShopInfo</string>
+    <string name="workspace_shopInfo_set">index.php?m=home&amp;c=shop&amp;a=SetShopInfo</string>
+    <!-- 订单模块 -->
+    <string name="billing_business_all">index.php?m=home&amp;c=shop&amp;a=GetAllOrderList</string>
+    <string name="billing_business_nopay">index.php?m=home&amp;c=shop&amp;a=GetNoPayOrderList</string>
+    <string name="billing_business_noreceive">index.php?m=home&amp;c=shop&amp;a=GetPendingOrderList</string>
+    <string name="billing_business_nopost">index.php?m=home&amp;c=shop&amp;a=GetPendingShipOrderList</string>
+    <string name="billing_business_sending">index.php?m=home&amp;c=shop&amp;a=GetDeliveryOrderList</string>
+    <string name="billing_business_buy">index.php?m=home&amp;c=index&amp;a=GetOrderBaseInfo</string>
+    <string name="billing_business_create">index.php?m=home&amp;c=index&amp;a=CreateOrder</string>
+    <string name="billing_business_pay">index.php?m=home&amp;c=index&amp;a=GetUserOrderInfo</string>
+    <string name="billing_get_shop_orderinfo">index.php?m=home&amp;c=shop&amp;a=GetShopOrderInfo</string>
+    <string name="billing_business_confirm">index.php?m=home&amp;c=shop&amp;a=ShopConfirmOrder</string>
+    <string name="billing_business_ship">index.php?m=home&amp;c=shop&amp;a=ShopShipOrder</string>
+    <string name="billing_business_complete">index.php?m=home&amp;c=shop&amp;a=CompleteToPayOrder</string>
+    <string name="billing_business_cancel">index.php?m=home&amp;c=shop&amp;a=ShopCancelOrder</string>
+    <string name="billing_custom_all">index.php?m=home&amp;c=index&amp;a=GetUserAllOrderList</string>
+    <string name="billing_custom_nopay">index.php?m=home&amp;c=index&amp;a=GetUserNoPayOrderList</string>
+    <string name="billing_custom_noreceive">index.php?m=home&amp;c=index&amp;a=GetUserPendingOrderList</string>
+    <string name="billing_custom_nopost">index.php?m=home&amp;c=index&amp;a=GetUserPendingShipOrderList</string>
+    <string name="billing_custom_noget">index.php?m=home&amp;c=index&amp;a=GetUserShipingOrderList</string>
+    <string name="billing_custom_cancelnopay">index.php?m=home&amp;c=index&amp;a=DelUserNoPayOrder</string>
+    <string name="billing_custom_cancelnoreceive">index.php?m=home&amp;c=index&amp;a=DelUserPayOrder</string>
+    <string name="billing_custom_remindship">index.php?m=home&amp;c=index&amp;a=RemindShipOrder</string>
+    <string name="billing_custom_confirmreceipt">index.php?m=home&amp;c=index&amp;a=ConfirmReceipt</string>
+    <string name="billing_custom_deleteorder">index.php?m=home&amp;c=index&amp;a=DelUserOrder</string>
+    <string name="billing_custom_statuscount">index.php?m=home&amp;c=index&amp;a=GetOrderStatusCount</string>
+    <string name="billing_business_statuscount">index.php?m=home&amp;c=shop&amp;a=GetOrderStatusCount</string>
+    <!-- 技能模块 -->
+    <string name="technical_get_skill_category">index.php?m=home&amp;c=skill&amp;a=GetSkillCategory</string>
+    <string name="technical_get_skill_way">index.php?m=home&amp;c=skill&amp;a=GetSkillWay</string>
+    <string name="skill_get_list">index.php?m=home&amp;c=skill&amp;a=GetSkillHall</string>
+    <string name="skill_collect">index.php?m=home&amp;c=skill&amp;a=SkillCollection</string>
+    <string name="skill_detail">index.php?m=home&amp;c=skill&amp;a=SkillDetail</string>
+
+    <!-- 服务者 技能相关 -->
+    <string name="skill_publish">index.php?m=home&amp;c=skiller&amp;a=Issue</string>
+    <string name="skill_manager_get_list">index.php?m=home&amp;c=skiller&amp;a=GetUserSkillList</string>
+    <string name="skill_set_shelves">index.php?m=home&amp;c=skiller&amp;a=SetSkillShelves</string>
+    <string name="skill_manager_up_down">index.php?m=home&amp;c=skiller&amp;a=SetSkillDown</string>
+
+    <!-- 华丽的分割线 -->
+    <string name="title_activity_base">BaseActivity</string>
+    <string name="title_activity_mine_main">MineMainActivity</string>
+    <string name="title_activity_mine_integral">MineIntegralActivity</string>
+    <string name="title_activity_mine_coupon">MineCouponActivity</string>
+    <string name="title_activity_mine_invite">MineInviteActivity</string>
+    <string name="title_activity_mine_wallet">MineWalletActivity</string>
+    <string name="title_activity_mine_work">MineWorkActivity</string>
+    <string name="title_activity_mine_apply">MineApplyActivity</string>
+    <string name="title_activity_mine_success">MineSuccessActivity</string>
+    <string name="title_activity_mine_workspace_main">MineWorkspaceMainActivity</string>
+    <string name="title_activity_mine_workspace">MineWorkspaceActivity</string>
+    <string name="title_activity_mine_workspace_setup">MineWorkspaceSetupActivity</string>
+    <string name="title_activity_mine_card">MineCardActivity</string>
+    <string name="title_activity_mine_work_building_choose">MineWorkBuildingChooseActivity</string>
+    <string name="title_activity_mine_workspace_goto_wor">MineWorkspaceGotoWorActivity</string>
+    <string name="title_activity_store_main">StoreMainActivity</string>
+    <string name="title_activity_home_main">HomeMainActivity</string>
+    <string name="title_activity_base_fragment">BaseFragmentActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_store_goods">StoreGoodsActivity</string>
+    <string name="title_activity_store_create_billing">StoreCreateBillingActivity</string>
+    <string name="title_activity_store_cart">StoreCartActivity</string>
+    <string name="title_activity_mine_billing_custom">MineBillingCustomActivity</string>
+    <string name="title_activity_mine_workspace_replenish">MineWorkspaceReplenishActivity</string>
+    <string name="title_activity_mine_workspace_add_goods">MineWorkspaceAddGoodsActivity</string>
+    <string name="title_activity_mine_wallet_recharge">MineWalletRechargeActivity</string>
+    <string name="title_activity_mine_wallet_cash">MineWalletCashActivity</string>
+    <string name="title_activity_mine_workspace_goods_manager">MineWorkspaceGoodsManagerActivity</string>
+    <string name="title_activity_store_goods_detail">StoreGoodsDetailActivity</string>
+    <string name="title_activity_billing_business">BillingBusinessActivity</string>
+    <string name="title_activity_billing_address">BillingAddressActivity</string>
+    <string name="title_activity_address_add">AddressAddActivity</string>
+    <string name="title_activity_billing_pay">BillingPayActivity</string>
+    <string name="title_activity_billing_custom">BillingCustomActivity</string>
+    <string name="title_activity_address_edit">AddressEditActivity</string>
+    <string name="title_activity_user_city">UserCityActivity</string>
+    <string name="title_activity_user_school">UserSchoolActivity</string>
+    <string name="title_activity_mine_wallet_idmanage">MineWalletIDManageActivity</string>
+    <string name="title_activity_mine_workspace_buyself">MineWorkspaceBuyselfActivity</string>
+    <string name="title_activity_chat_dialog_list">ChatDialogListActivity</string>
+    <string name="title_activity_chat_info">ChatInfoActivity</string>
+    <string name="title_activity_message_dialog_list">MessageDialogListActivity</string>
+    <string name="title_activity_message_detail">MessageDetailActivity</string>
+    <string name="title_activity_store_goods_search">StoreGoodsSearchActivity</string>
+    <string name="title_activity_technical_home">TechnicalHomeActivity</string>
+    <string name="title_activity_technical_menu">TechnicalMenuActivity</string>
+    <string name="title_activity_mine_service_sold">MineServiceSoldActivity</string>
+    <string name="title_activity_technical_publish">TechnicalPublishActivity</string>
+    <string name="title_activity_mine_service_manger">MineServiceMangerActivity</string>
+    <string name="title_activity_mine_competitive">MineCompetitiveActivity</string>
+    <string name="title_activity_mine_service_base">MineServiceBaseActivity</string>
+    <string name="title_activity_mine_spear">MineSpearActivity</string>
+    <string name="title_activity_mine_setup">MineSetupActivity</string>
+    <string name="title_activity_mine_infomation_setup">MineInfomationSetupActivity</string>
+    <string name="title_activity_moment_publish">MomentPublishActivity</string>
+    <string name="title_activity_moment_service_picker">MomentServicePickerActivity</string>
+    <string name="title_activity_moment_picture_picker">MomentPicturePickerActivity</string>
+    <string name="title_activity_moment_topic_picker">MomentTopicPickerActivity</string>
+    <string name="title_activity_technical_demand">TechnicalDemandActivity</string>
+    <string name="title_activity_splash_screen">SplashScreenActivity</string>
+    <string name="title_activity_mine_wallet_add_acount">MineWalletAddAcountActivity</string>
+    <string name="title_activity_technical_category">TechnicalCategoryActivity</string>
+    <string name="title_activity_technical_list">TechnicalListActivity</string>
+    <string name="title_activity_technical_detail">TechnicalDetailActivity</string>
+    <string name="title_activity_guide_screen">GuideScreenActivity</string>
+
+    <!-- photopicker -->
+    <string name="select_album">选择相册</string>
+    <string name="select_image">选择图片</string>
+    <string name="latest_image">最近照片</string>
+    <string name="photo_album">相册</string>
+    <string name="main_confirm">确定</string>
+    <string name="main_cancel">取消</string>
+    <string name="main_back">返回</string>
+    <string name="title_activity_skill_category_publish">SkillCategoryPublishActivity</string>
+    <string name="title_activity_skill_buy">SkillBuyActivity</string>
+    <string name="title_activity_store_school">StoreSchoolActivity</string>
+    <string name="title_activity_store_building">StoreBuildingActivity</string>
+    <string name="title_activity_store_pay_success">StorePaySuccessActivity</string>
+    <string name="title_activity_school_choose">SchoolChooseActivity</string>
+    <string name="title_activity_floor_choose">FloorChooseActivity</string>
+    <string name="title_activity_business_billing_detail">BusinessBillingDetailActivity</string>
+
+    <!-- 显示文字常亮 -->
+    <string name="name_dddt">订单动态</string>
+    <string name="title_activity_system_message">SystemMessageActivity</string>
+    <string name="title_activity_regist_agreement">RegistAgreementActivity</string>
+    <string name="title_activity_apply_agreement">ApplyAgreementActivity</string>
+
+</resources>

@@ -1,0 +1,29 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.fragment.main.ChatMainFragment" 
+    android:background="@drawable/title_common_background">
+    <RelativeLayout android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        <RelativeLayout android:id="@+id/bar"
+            android:layout_height="44dp"
+	        android:layout_width="match_parent"
+	        android:background="@drawable/actionbar_color">
+	        <TextView android:text="消息"
+	            android:layout_centerInParent="true"
+	            android:layout_width="wrap_content"
+	            android:layout_height="wrap_content"
+        		android:textSize="18sp"/>
+	        
+	    </RelativeLayout>
+	    <ListView android:layout_below="@+id/bar"
+	        android:id="@+id/chatLV"
+	        android:layout_height="wrap_content"
+	        android:layout_width="match_parent">
+	        
+	    </ListView>
+    </RelativeLayout>
+    
+
+</FrameLayout>

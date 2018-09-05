@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/white_background"
+    android:descendantFocusability="blocksDescendants">
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="订单号：1232145"
+            android:id="@+id/orderId"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"/>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="待店长接单"
+            android:id="@+id/orderStatus"
+            android:textColor="@drawable/red_textcolor"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"/>
+    </RelativeLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/title_common_background"
+        android:layout_marginTop="@dimen/mine_apply_info_margintopbottom">
+        
+    </LinearLayout>
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/goodsGL"
+        android:columnCount="4"
+		android:rowCount="1">
+        
+    </GridLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/title_common_background"
+        android:layout_marginTop="@dimen/mine_apply_info_margintopbottom">
+        
+    </LinearLayout>
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="实际收款20.00元"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+            android:id="@+id/money"/>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="共8件商品"
+            android:id="@+id/goodsnum"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+            android:layout_toLeftOf="@+id/money"
+            android:layout_marginRight="10dp"/>
+        <TextView android:id="@+id/time"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_alignTop="@+id/money"
+            android:layout_alignBottom="@+id/money"
+            android:layout_marginLeft="20dp"
+            android:textColor="@drawable/red_textcolor"/>
+    </RelativeLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@drawable/title_common_background"
+        android:layout_marginTop="@dimen/mine_apply_info_margintopbottom">
+        
+    </LinearLayout>
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp">
+        <Button android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+            android:background="@drawable/background_cart_yellow"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:text="确认付款"
+            android:id="@+id/submitBtn"
+            android:textSize="12sp"
+            android:textColor="@drawable/white_background"
+            android:layout_alignParentRight="true"/>
+        <Button android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+            android:background="@drawable/background_cart_gray"
+            android:layout_width="80dp"
+            android:layout_height="30dp"
+            android:text="取消订单"
+            android:id="@+id/cancelBtn"
+            android:textSize="12sp"
+            android:alpha="0"
+            android:textColor="@drawable/white_background"
+            android:layout_toLeftOf="@+id/submitBtn"/>
+        <ImageButton android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"
+            android:background="@drawable/icon_phone_green"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="确认付款"
+            android:id="@+id/phoneBtn"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"/>
+
+        <ImageButton
+            android:id="@+id/chatBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/phoneBtn"
+            android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"
+            android:layout_toRightOf="@+id/phoneBtn"
+            android:background="@drawable/icon_chat_yellow"
+            android:text="确认付款"
+            android:visibility="gone" />
+        
+    </RelativeLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/title_common_background"
+        android:layout_marginTop="@dimen/mine_apply_info_margintopbottom">
+        
+    </LinearLayout>
+
+</LinearLayout>

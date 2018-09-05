@@ -1,0 +1,407 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.store.StoreCreateBillingActivity" 
+    android:background="@drawable/title_common_background"
+    android:orientation="vertical"
+    android:focusable="true"  
+    android:focusableInTouchMode="true">
+    
+    <LinearLayout android:orientation="horizontal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:background="@drawable/background_cart_white"
+                android:id="@+id/submitLayout" >
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="共"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginLeft="@dimen/mine_apply_info_marginleft"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="12"
+                    android:textSize="18sp"
+                    android:textColor="@drawable/red_textcolor"
+                    android:layout_marginTop="10dp"
+                    android:id="@+id/numTV"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="件"
+                    android:layout_marginTop="10dp"/>
+                
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="实付款"
+                    android:layout_marginLeft="20dp"
+                    android:layout_marginTop="10dp"/>
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="￥23.23"
+                    android:textSize="18sp"
+                    android:textColor="@drawable/red_textcolor" 
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp"
+                    android:id="@+id/amountTV"
+                    />
+                <Button android:text="提交订单"
+                    android:background="@drawable/background_cart_blue"
+                    android:layout_height="30dp"
+                    android:id="@+id/buyBtn"
+                    android:layout_marginLeft="60dp"
+                    android:layout_width="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:textSize="12sp"
+                    android:layout_marginRight="@dimen/mine_apply_info_marginright"/>
+
+     </LinearLayout>
+    
+    <ScrollView android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/submitLayout"
+        android:layout_alignParentTop="true">
+        <LinearLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+            <RelativeLayout android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/white_background"
+	        android:layout_marginTop="10dp">
+	        <ImageView
+	        android:id="@+id/locationIV"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentLeft="true"
+	        android:layout_alignParentTop="true"
+	        android:layout_marginLeft="22dp"
+	        android:layout_marginTop="10dp"
+	        android:src="@drawable/icon_address_blue" />
+	
+	    <TextView
+	        android:id="@+id/nameTV"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignTop="@+id/locationIV"
+	        android:layout_marginLeft="21dp"
+	        android:layout_toRightOf="@+id/locationIV" />
+	
+	    <TextView
+	        android:id="@+id/phoneTV"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignBaseline="@+id/nameTV"
+	        android:layout_alignBottom="@+id/nameTV"
+	        android:layout_marginLeft="14dp"
+	        android:layout_toRightOf="@+id/nameTV" />
+	
+	    <TextView
+	        android:id="@+id/addressTV"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignLeft="@+id/nameTV"
+	        android:layout_below="@+id/nameTV"
+	        android:layout_marginTop="5dp" />
+	
+	    <ImageButton
+	        android:id="@+id/editBtn"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:layout_alignTop="@+id/phoneTV"
+	        android:layout_marginRight="20dp"
+	        android:background="@null"
+	        android:alpha="0"
+	        android:layout_marginTop="10dp"
+	        android:src="@drawable/background_add_btn" />
+	
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="5dp"
+	        android:layout_alignParentRight="true"
+	        android:layout_alignParentLeft="true"
+	        android:layout_below="@+id/addressTV"
+	        android:layout_marginTop="10dp"
+	        android:background="@drawable/title_common_background" >
+	
+	    </LinearLayout>
+
+	    <TextView android:text="请选择一个收获地址"
+	        android:layout_width="match_parent"
+	        android:layout_height="match_parent"
+	        android:background="@drawable/white_background"
+	        android:gravity="center_vertical"
+	        android:paddingLeft="20dp"
+	        android:visibility="gone"/>	    
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignBottom="@+id/locationIV"
+            android:id="@+id/addressBtn"
+            android:background="@null" />
+        
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="订单商品"
+            android:layout_marginTop="10dp"
+            android:textSize="@dimen/billing_title_textsize"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+        <LinearLayout android:orientation="vertical"
+            android:background="@drawable/title_common_background"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"></LinearLayout>
+        <GridLayout android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:id="@+id/goodsGL">
+            
+        </GridLayout>
+        
+    </LinearLayout>
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background"
+        android:paddingBottom="10dp">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="货到付款"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:id="@+id/cash"
+            android:textSize="@dimen/billing_title_textsize"/>
+        <LinearLayout android:orientation="vertical"
+            android:background="@drawable/title_common_background"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/cash"
+            android:id="@+id/line"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"></LinearLayout>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="在线支付"
+            android:textSize="@dimen/billing_title_textsize"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_below="@+id/line"/>
+        <RadioGroup android:id="@+id/payRadioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right">
+            <RadioButton android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:id="@+id/huodao"/>
+            <RadioButton android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:layout_marginTop="10dp"
+                android:checked="true"
+                android:id="@+id/zaixian"/>
+        </RadioGroup>
+        
+        
+    </RelativeLayout>
+    
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background"
+        android:paddingBottom="10dp">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="急速八分钟到手"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:id="@+id/fast"
+            android:textSize="@dimen/billing_title_textsize"/>
+        <LinearLayout android:orientation="vertical"
+            android:background="@drawable/title_common_background"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/fast"
+            android:id="@+id/line2"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"></LinearLayout>
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="定时送达"
+            android:textSize="@dimen/billing_title_textsize"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_below="@+id/line2"/>
+        <RadioGroup android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+            android:id="@+id/arrivalRadioGroup">
+            <RadioButton android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_weight="1"
+                android:checked="true"
+                android:id="@+id/limitRB"/>
+            <RadioButton android:layout_height="match_parent"
+                android:layout_width="wrap_content"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:id="@+id/timeRB"/>
+        </RadioGroup>
+        
+    </RelativeLayout>
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_background">
+    <LinearLayout android:orientation="vertical"
+            android:background="@drawable/title_common_background"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"></LinearLayout>
+   		 <RelativeLayout android:orientation="horizontal"
+	        android:layout_width="match_parent"
+	        android:layout_height="0dp"
+	        android:background="@drawable/white_background"
+	        android:id="@+id/timeLinearLayout">
+        	<TextView android:layout_width="wrap_content"
+        	    android:id="@+id/timeTitle"
+	            android:layout_height="wrap_content"
+	            android:text="指定时间"
+	            android:textSize="@dimen/billing_title_textsize"
+	            android:layout_marginTop="10dp"
+	            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+	            android:paddingBottom="10dp"/>
+       		<TextView android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:text="请选择"
+	            android:layout_alignParentRight="true"
+	            android:id="@+id/time"
+	            android:layout_marginRight="30dp"
+	            android:paddingBottom="10dp"
+	            android:layout_alignTop="@+id/timeTitle"
+	            android:layout_alignBottom="@+id/timeTitle"
+	            android:gravity="right"
+	            android:layout_marginTop="3dp"/>
+       		<Button android:id="@+id/timeBtn"
+       		    android:layout_height="match_parent"
+       		    android:layout_width="match_parent"
+       		    android:background="@null"/>
+        </RelativeLayout>
+    </LinearLayout>
+    
+    <RelativeLayout android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background">
+        <TextView android:text="订单备注"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="10dp"
+            android:id="@+id/beizhuTV"
+            android:textSize="@dimen/billing_title_textsize"/>
+
+        <EditText android:id="@+id/remarkET"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/beizhuTV"
+            android:layout_alignBottom="@+id/beizhuTV"
+            android:layout_toRightOf="@+id/beizhuTV"
+            android:background="@null"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+            android:ems="10"
+            android:gravity="right|center_vertical"
+            android:hint="给配送人员留意（25字以内）"
+            android:textSize="12sp" >
+        </EditText>
+        
+        <LinearLayout android:orientation="vertical"
+            android:background="@drawable/title_common_background"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/beizhuTV"
+            android:id="@+id/beizhuline"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"></LinearLayout>
+        <TextView android:text="优惠券"
+            android:textSize="@dimen/billing_title_textsize"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/beizhuline"
+            android:id="@+id/couponTV"/>
+
+        <Button android:id="@+id/couponBtn"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/couponine"
+            android:layout_below="@+id/beizhuline"
+            android:layout_toRightOf="@+id/couponTV"
+            android:background="@null"
+            android:text="请选择优惠券"
+            android:textSize="12sp"
+            android:textColor="@drawable/dark_gray_color"
+            android:gravity="right|center_vertical"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"/>
+        
+        <LinearLayout android:orientation="vertical"
+            android:background="@drawable/title_common_background"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/couponTV"
+            android:id="@+id/couponine"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"></LinearLayout>
+        <TextView android:text="商品总价"
+            android:textSize="@dimen/billing_title_textsize"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/couponine"
+            android:id="@+id/moneyTitleTV"
+            android:paddingBottom="10dp"/>
+        
+        <TextView android:text="商品总价"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_below="@+id/couponine"
+            android:layout_alignTop="@+id/moneyTitleTV"
+            android:layout_alignBottom="@+id/moneyTitleTV"
+            android:layout_toRightOf="@+id/moneyTitleTV"
+            android:id="@+id/moneyTV"
+            android:gravity="right|center_vertical"
+            android:paddingBottom="10dp"
+            android:textSize="13sp"/>
+        </RelativeLayout>
+        <LinearLayout android:layout_height="10dp"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:background="@drawable/title_common_background"></LinearLayout>
+        </LinearLayout>
+        
+    </ScrollView>
+    
+    
+</RelativeLayout>

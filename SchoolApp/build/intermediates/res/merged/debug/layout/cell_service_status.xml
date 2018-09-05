@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingBottom="10dp"
+    android:touchscreenBlocksFocus="true" >
+    <TextView android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"/>
+    
+    <RadioButton android:id="@+id/checked"
+        android:background="@drawable/selector_servicestatus_checked"
+        android:button="@null"
+        android:layout_height="16dp"
+        android:layout_width="16dp"
+        android:layout_alignParentRight="true"
+        android:checked="false"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="@dimen/user_menu_arrow_margin_right"/>
+
+</RelativeLayout>

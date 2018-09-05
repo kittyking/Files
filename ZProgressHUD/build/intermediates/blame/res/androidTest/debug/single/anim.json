@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/anim/round_spinner_fade.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/anim/round_spinner_fade.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/anim/round_spinner_apple.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/anim/round_spinner_apple.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/anim/gear_spinner.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/anim/gear_spinner.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/anim/round_spinner.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/anim/round_spinner.xml"
+    }
+]

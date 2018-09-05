@@ -1,0 +1,128 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.technical.SkillBuyActivity"
+    android:background="@drawable/title_common_background"
+    android:orientation="vertical" >
+    <RelativeLayout android:id="@+id/info"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:paddingBottom="20dp">
+        <ImageView android:id="@+id/usericon"
+	        android:layout_height="50dp"
+	        android:layout_width="50dp"
+	        android:src="@drawable/icon_pay_haitongxue"
+	        android:layout_marginTop="@dimen/user_menu_arrow_margin_right"
+	        android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"/>
+	    
+	    <TextView android:id="@+id/title"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:textSize="16sp"
+	        android:text="服务标题"
+	        android:layout_toRightOf="@+id/usericon"
+	        android:layout_alignTop="@+id/usericon"
+	        android:layout_marginLeft="10dp"/>
+	    <TextView android:id="@+id/price"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:text="$0/小时"
+	        android:textSize="12sp"
+	        android:textColor="@drawable/red_textcolor"
+	        android:layout_below="@+id/title"
+	        android:layout_alignLeft="@+id/title"/>
+	    <TextView android:text="线上"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:layout_toRightOf="@+id/price"
+	        android:layout_alignTop="@+id/price"
+	        android:textSize="12sp"
+	        android:layout_marginLeft="20dp"/>
+	    <TextView android:id="@+id/username"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:text="服务者"
+	        android:gravity="center"
+	        android:textSize="12sp"
+	        android:textColor="@drawable/dark_gray_color"
+	        android:layout_below="@+id/price"
+	        android:layout_alignLeft="@+id/title"/>
+	    
+    </RelativeLayout>
+    <TextView android:text="请描述你的需求:"
+        android:textColor="@drawable/dark_gray_color"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="20dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"/>
+    <EditText android:id="@+id/need"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:hint="如：我需要帮忙送快递"
+        android:background="@drawable/white_background"
+        android:gravity="left|top"
+        android:layout_marginTop="1dp"
+        android:textSize="14sp"
+        android:paddingLeft="20dp"
+        android:paddingTop="10dp"/>
+    <LinearLayout android:layout_height="40dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:layout_marginTop="1dp"
+        android:orientation="horizontal">
+        
+    </LinearLayout>
+    
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:layout_marginTop="10dp">
+        <TextView android:text="金额"
+            android:paddingTop="10dp"
+	        android:paddingBottom="10dp"
+	        android:paddingLeft="20dp"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"/>
+        <TextView android:text="0元"
+            android:paddingTop="10dp"
+	        android:paddingBottom="10dp"
+	        android:paddingRight="20dp"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:textColor="@drawable/red_textcolor"/>
+    </RelativeLayout>
+    
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:layout_marginTop="10dp">
+        <TextView android:text="优惠券"
+            android:paddingTop="10dp"
+	        android:paddingBottom="10dp"
+	        android:paddingLeft="20dp"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"/>
+        <TextView android:text="请选择优惠券"
+            android:paddingTop="10dp"
+	        android:paddingBottom="10dp"
+	        android:paddingRight="20dp"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:layout_alignParentRight="true"
+	        android:textColor="@drawable/dark_gray_color"/>
+    </RelativeLayout>
+
+    <Button android:text="提交"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@drawable/background_submit_btn"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"/>
+
+</LinearLayout>

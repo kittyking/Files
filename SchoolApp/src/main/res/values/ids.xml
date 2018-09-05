@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- photopicker -->
+<resources>
+    <item type="id" name="tag_first"/>
+    <item type="id" name="tag_second"/>
+</resources>

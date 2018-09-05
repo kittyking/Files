@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+    <ImageView android:id="@+id/icon"
+        android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        />
+    
+    <TextView android:id="@+id/nick"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="师兄"
+        android:layout_toRightOf="@+id/icon"
+        android:layout_marginLeft="10dp"
+        android:layout_alignTop="@+id/icon"/>
+    
+    <TextView android:id="@+id/money"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="成交金额"
+        android:layout_toRightOf="@+id/icon"
+        android:layout_marginLeft="10dp"
+        android:layout_alignBottom="@+id/icon"/>
+    
+    <TextView android:id="@+id/time"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="成交金额"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="20dp"
+        android:layout_alignTop="@+id/icon"/>
+
+</RelativeLayout>

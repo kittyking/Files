@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w360dp-v13/values-w360dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 54,
+                    "endOffset": 105
+                },
+                "from": {
+                    "file": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/values-w360dp-v13/values-w360dp-v13.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 54,
+                        "endOffset": 105
+                    }
+                }
+            }
+        ]
+    }
+]

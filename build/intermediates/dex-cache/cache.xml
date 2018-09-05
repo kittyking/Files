@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_952fb6210511102ff45e8ccc241880fe2f623ffd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/android-async-http-1.4.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="77bbfe240e437ecb396d982afa0d3bd4f9090ba7">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http-1.4.8_0d5868f3c36a871f115927bcd191387ed8224479/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/httpcore-4.4.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e876a79d561e5c6207b78d347e198c8c4531a5e5">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/httpcore-4.4.3_e747a17052d1ce93db4948b2488f82935d3b191c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_969ad6ebf5fc6a168357a7e27e496b1483d042e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/libammsdk.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="11b09244aedaa51bfd09269637be7c32c60da314">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/libammsdk_260ad4ba90f3c999feea15da803b2cc0da78f7c8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/e0da47f7593d291def66726c13ad398d279c0b27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_31fe4dea3edd262e3bff50f2cd580503368cea58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_a9af09c9da0a75fbd34103e0350ac3c9f6628a11/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/VerticalViewPager.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3808217235f9c6fff6f47a1deb99a40aa4186c70">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/VerticalViewPager_87660144a09d2467c4b627ea985001d0b3288dda/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/jcore-android_v1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="106b4280f8f932065d75075b65bc7754411abc73">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/jcore-android_v1.0.0_a377f2b706680883e55f7aabf7090b351e052231/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/BaiduLBS_Android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b833a076b8eca1608de4d124ca4bbb39257ce020">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/BaiduLBS_Android_68dfacad9b82e9e5ee0e0431c133afd7c8dfeba8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c319a9a9e9ec5baa34b0f10a566826056ee648c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/httpclient-4.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7e3cecc566df91338c6c67883b89ddd05a17db43">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/httpclient-4.5.1_df0178ccddc1f551cfea8c4ce2328f857c0e78ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/glide-3.6.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/glide-3.6.1_b89bd73d4f617edfe8dc2c8e2727b7956cf6d719/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_dbada0f08a6484d649a485633dfb7a1764d448ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/c562db9acf574d177dc28f0fc55e053202262543/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a023f753a05254b0e4e50cbb0048367e9e70c398/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/5282e1b4695d87ad553b5ceb64cba35cac7f2edd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a9c741b8d33212336d4badda84ea96a257da4eed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/apache-commons-discovery.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7773ac7a7248f08ed2b8d297c6e2ef28260640ea">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/apache-commons-discovery_51e72818998abbbe9e29459815cab3eb10383fed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/hyphenatechat_3.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed44d7d87131097202ffd6191a882b5115458437">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/hyphenatechat_3.2.2_b18f3b45412b5c999bc15ee967a411a2fa5698d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/apache-commons-id.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43b7fc15207c99dbf25d48ab8f1f864dde489c15">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/apache-commons-id_8b0271f6f7745408c05ccb40d9665026466029fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/5776a5f66860878a8bac6143626bee6fd8a42e80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/classes_28d44d841b5213d7f688f9b6079c1f6d703f343a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.android/build-cache/e0da47f7593d291def66726c13ad398d279c0b27/output/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6fc1d5bc12490b2265469922ac37dd1a1c5251ce/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/GifView.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5a518235931001b94e87540c99bd13258f614622">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/GifView_09c340e62a4dc49c2315989399a2cdf7bf02a603/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a3083298a72827b617238e31781e9af6afb8b9f0">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_31c60cc9a835428ecb1b1fc4a8458b16dc9c2e22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/jpush-android_v3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="80269b2947385e1e32eaab580a47d96a1e5a315c">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/jpush-android_v3.0.0_7815f5e278761bfaa5d6f14fc4c6703aa3481bcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/android-viewbadger.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1303b50d535716ca7601c5014357b8435658313">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/android-viewbadger_e92ea1b036dfa67ee87f380998256702fe4ea174/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.3.1_8187125de2f53f13d6b625bfa9a10f9db3e074dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/alipaySdk-20160516.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6dbd15e12806634fb809af9b565d1cf22dca9d2c">
+        <dex dex="/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/2/alipaySdk-20160516_cfa28efea3453722c1e9ed8de05c0bd45a3c139c/classes.dex" />
+    </item>
+
+</items>

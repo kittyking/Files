@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/title_common_background">
+    <android.support.v4.view.ViewPager android:id="@+id/picVP"
+        android:layout_height="100dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/title_common_background"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_background" 
+        android:paddingBottom="10dp">
+
+        <!-- <com.school.schoolapp.view.cornerimage.CircularImage android:id="@+id/usericon" -->
+        <ImageView
+            android:id="@+id/usericon"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/icon_pay_haitongxue" />
+
+        <ImageView
+            android:id="@+id/usersex"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignTop="@+id/usericon"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/usericon"
+            android:src="@drawable/icon_technical_man" />
+
+        <ImageView
+            android:id="@+id/location"
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignLeft="@+id/usersex"
+            android:layout_below="@+id/usersex"
+            android:layout_marginTop="10dp"
+            android:src="@drawable/icon_technical_realname" />
+
+        <TextView
+            android:id="@+id/username"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/usersex"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/usersex"
+            android:text="用户名"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/userlocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/location"
+            android:layout_alignLeft="@+id/username"
+            android:text="已实名认证"
+            android:textColor="@drawable/dark_gray_color"
+            android:textSize="12sp" />
+        
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" >
+
+        <TextView
+            android:id="@+id/title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"
+            android:text="陪玩，语音带你飞" />
+
+        <TextView
+            android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+            android:text="5.00元/小时"
+            android:textColor="@drawable/red_textcolor" />
+
+        <TextView
+            android:id="@+id/describ"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/title"
+            android:layout_below="@+id/title"
+            android:layout_marginTop="10dp"
+            android:text="一起来玩，可以教你技术"
+            android:textColor="@drawable/dark_gray_color" />
+    </RelativeLayout>
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+        <TextView android:text="暂无契约"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"/>
+        <TextView android:text="暂无评价"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:layout_weight="1"
+            android:gravity="center"/>
+    </LinearLayout>
+    <ListView android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:layout_marginTop="10dp"></ListView>
+    
+</LinearLayout>

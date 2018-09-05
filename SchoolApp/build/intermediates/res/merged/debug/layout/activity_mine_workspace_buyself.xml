@@ -1,0 +1,103 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.workspace.MineWorkspaceBuyselfActivity"
+    android:orientation="vertical"
+	xmlns:app="http://schemas.android.com/apk/res-auto">
+     <RelativeLayout android:id="@+id/header"
+        android:layout_height="44dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/actionbar_color"
+        android:layout_alignParentTop="true">
+        <ImageButton android:onClick="finish"
+	      android:id="@+id/backButton"
+	      android:layout_width="44dp"
+	      android:layout_height="44dp" 
+	      android:scaleType="fitXY"
+	      android:background="@null"
+	      android:src="@drawable/icon_arrow_back"
+	      android:padding="12dp"
+	      android:layout_alignParentLeft="true"/>
+	  <TextView android:id="@+id/storename"
+	      android:layout_width="match_parent"
+	      android:layout_height="44dp"
+	      android:textSize="18sp"
+	      android:gravity="center"
+	      android:textColor="@drawable/black_background"
+	      android:layout_toRightOf="@+id/backButton"
+	      android:paddingRight="44dp"/>
+	  
+    </RelativeLayout>
+    <RelativeLayout android:orientation="horizontal"
+        android:id="@+id/cartLinear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/background_cart_white"
+        android:layout_below="@+id/header">
+
+        <ImageButton android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_cart"
+            android:background="@null"
+            android:id="@+id/cartImageButton"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="30dp"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="￥0"
+            android:layout_toRightOf="@+id/cartImageButton"
+            android:textColor="@drawable/red_textcolor" 
+            android:layout_marginLeft="20dp"
+            android:id="@+id/cartMoney"
+            android:layout_alignTop="@+id/cartImageButton"
+            android:layout_alignBottom="@+id/cartImageButton"
+            android:gravity="center_vertical"/>
+        <Button android:text="立即购买"
+            android:background="@drawable/background_cart_blue"
+            android:layout_height="30dp"
+            android:id="@+id/buyBtn"
+            android:textSize="12sp"
+            android:layout_alignParentRight="true"
+            android:layout_marginLeft="100dp"
+            android:layout_width="wrap_content"
+            android:layout_alignTop="@+id/cartImageButton"
+            android:layout_marginRight="20dp"
+            android:onClick="buyBtnPressed"/>
+
+    </RelativeLayout>
+
+    <android.support.design.widget.TabLayout 
+	    android:id="@+id/indicator"  
+	    android:background="@drawable/white_background"  
+	    android:layout_height="40dp"  
+	    android:layout_width="fill_parent"
+	    android:paddingLeft="10dp"
+	    android:paddingRight="10dp"
+	    app:tabMode="scrollable"
+        app:tabIndicatorColor="@drawable/red_textcolor"
+        app:tabSelectedTextColor="@drawable/red_textcolor"
+        app:tabTextColor="@drawable/black_background"
+	    android:layout_alignParentTop="true"/>
+    <LinearLayout android:background="@drawable/title_common_background"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_below="@+id/indicator">
+        
+    </LinearLayout>
+    <android.support.v4.view.ViewPager 
+        android:id="@+id/goodsViewPager"
+	    android:layout_height="match_parent"
+	    android:layout_width="fill_parent"
+	    android:layout_marginTop="1dp"
+	    android:layout_below="@+id/indicator"
+	    android:layout_above="@+id/cartLinear">
+    </android.support.v4.view.ViewPager>
+    
+
+    
+</RelativeLayout>

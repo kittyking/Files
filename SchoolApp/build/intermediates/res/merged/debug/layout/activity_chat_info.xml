@@ -1,0 +1,131 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.chat.ChatDetailActivity"
+    android:id="@+id/rootView"
+    android:focusable="true"
+    android:focusableInTouchMode="true">
+    <RelativeLayout android:id="@+id/expressionRL"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@drawable/title_common_background"
+        android:layout_alignParentBottom="true">
+        <android.support.v4.view.ViewPager android:id="@+id/expressionVP"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:visibility="gone">
+            
+        </android.support.v4.view.ViewPager>
+        <RelativeLayout android:id="@+id/pictureRL"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="gone">
+            <ImageButton android:id="@+id/picture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_chat_picture"
+                android:background="@null"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="20dp"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="图片"
+                android:layout_below="@+id/picture"
+                android:layout_alignLeft="@+id/picture"
+                android:layout_alignRight="@+id/picture"
+                android:gravity="center"
+                android:layout_marginTop="5dp"/>
+            <ImageButton android:id="@+id/camera"
+                android:layout_toRightOf="@+id/picture"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_chat_camera"
+                android:background="@null"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"/>
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="相机"
+                android:layout_below="@+id/camera"
+                android:layout_alignLeft="@+id/camera"
+                android:layout_alignRight="@+id/camera"
+                android:gravity="center"
+                android:layout_marginTop="5dp"/>
+        </RelativeLayout>
+        
+    </RelativeLayout>
+    
+    <RelativeLayout android:id="@+id/chatRL"
+        android:layout_above="@+id/expressionRL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_background"
+        android:paddingBottom="5dp">
+        <ImageButton android:id="@+id/inputType"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_chat_sound"
+            android:background="@null"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="5dp"/>
+        
+        <ImageButton android:id="@+id/add"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_chat_add"
+            android:background="@null"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_alignParentRight="true"/>
+        
+        <ImageButton android:id="@+id/express"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_chat_express"
+            android:background="@null"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="8dp"
+            android:layout_toLeftOf="@+id/add"/>
+        
+        <EditText android:id="@+id/chatET"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/inputType"
+            android:layout_toLeftOf="@+id/express"
+            android:layout_alignTop="@+id/express"
+            android:layout_alignBottom="@+id/express"
+            android:background="@drawable/background_login_edittext"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:gravity="left|center_horizontal"
+            android:imeOptions="actionSend"
+            android:singleLine="true"
+            android:paddingTop="3dp"
+            android:paddingLeft="3dp"/>
+        
+        <Button android:id="@+id/soundBtn"
+            android:longClickable="true"
+            android:clickable="false"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_toRightOf="@+id/inputType"
+            android:layout_toLeftOf="@+id/express"
+            android:layout_alignTop="@+id/express"
+            android:layout_alignBottom="@+id/express"
+            android:background="@drawable/backgroud_chat_sound"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="按住 说话"
+            android:textSize="14sp"
+            android:textColor="@drawable/dark_gray_color"
+            android:visibility="gone"/>
+    </RelativeLayout>
+
+    <ListView android:id="@+id/chatInfo"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:layout_above="@+id/chatRL"
+        android:background="@drawable/title_common_background"></ListView>
+</RelativeLayout>

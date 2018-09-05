@@ -1,0 +1,814 @@
+[
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/city_item.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/city_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_service_manger.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_service_manger.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_work_building_choose.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_work_building_choose.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_guide_screen.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_guide_screen.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_goods.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_goods.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_skill_category_publish.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_skill_category_publish.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_goods_add.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_goods_add.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_billing_custom.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_billing_custom.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_skill_detail_header.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_skill_detail_header.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_technical_category.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_technical_category.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_goods_manager_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_goods_manager_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_wallet_id_manage_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_wallet_id_manage_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_skill_buy.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_skill_buy.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_coupon_mine.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_coupon_mine.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_coupon_home.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_coupon_home.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_moment_publish.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_moment_publish.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_success.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_success.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_system_message.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_system_message.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_goods_cart_actionsheet.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_goods_cart_actionsheet.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_chat_dialog_list.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_chat_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_wallet_idmanage.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_wallet_idmanage.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_replenish.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_replenish.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_billing_custom.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_billing_custom.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/main_gridview_item.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/main_gridview_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_goods_manager_recommend.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_goods_manager_recommend.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_billing_goods.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_billing_goods.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_wallet.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_wallet.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/jpush_webview_layout.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/jpush_webview_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_pay_success.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_pay_success.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_moment_main_service.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_moment_main_service.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_spinner_servicesold.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_spinner_servicesold.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_wallet_recharge.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_wallet_recharge.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_billing_custom.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_billing_custom.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_home_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_home_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_address_edit.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_address_edit.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_goods_manager_selling.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_goods_manager_selling.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_mine_coupon.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_mine_coupon.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_billing_business.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_billing_business.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_wallet_add_acount.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_wallet_add_acount.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_moment_seller.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_moment_seller.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_work.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_work.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_technical_detail.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_technical_detail.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/actionbar_technical_demand.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/actionbar_technical_demand.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_goods_viewpager.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_goods_viewpager.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/photo_album_lv_item.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/photo_album_lv_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_goto_work.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_goto_work.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_goods_vertical.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_goods_vertical.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_voice_receive_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_voice_receive_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/photo_wall.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/photo_wall.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_apply.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_apply.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_technical_menu.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_technical_menu.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_dialog_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_dialog_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_image_send.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_image_send.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_user_recoverd.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_user_recoverd.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_service_manger.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_service_manger.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_add_goods.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_add_goods.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_card.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_card.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/viewpager_billing_listview.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/viewpager_billing_listview.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_technical_headerview.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_technical_headerview.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_user_school.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_user_school.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_base.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_base.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_message_dialog_list.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_message_dialog_list.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_technical_detail_header.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_technical_detail_header.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_service_base.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_service_base.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_wallet_detail.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_wallet_detail.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_billing_custom.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_billing_custom.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_technical_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_technical_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_info_receive_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_info_receive_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_moment_topic_picker.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_moment_topic_picker.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_user_login.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_user_login.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_splash_screen.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_moment_picture_picker.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_moment_picture_picker.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_business_billing_detail.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_business_billing_detail.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_building.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_building.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_apply_agreement.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_apply_agreement.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_technical_publish.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_technical_publish.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_base_fragment.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_base_fragment.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_goods_search.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_goods_search.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_store_goods_list.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_store_goods_list.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_technical_list.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_technical_list.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_message_detail.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_message_detail.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_store_listviewcell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_store_listviewcell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_school.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_school.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_goods_three.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_goods_three.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_coupon.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_coupon.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_integral.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_integral.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_school_choose.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_school_choose.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_address_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_address_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_user_register.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_user_register.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_user_floor_choose_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_user_floor_choose_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_store_headerview.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_store_headerview.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_moment_service_picker.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_moment_service_picker.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_store_suspend_header.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_store_suspend_header.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_billing_address.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_billing_address.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/actionbar_custom.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/actionbar_custom.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_goods_manager_stick.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_goods_manager_stick.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/dialog_progress.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/default/res/layout/dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_phone_actionsheet.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_phone_actionsheet.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_skill_contract.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_skill_contract.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/jpush_popwin_layout.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_user_fast_login.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_user_fast_login.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_buyself.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_buyself.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_goods_listviewcell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_goods_listviewcell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_menu_user.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_menu_user.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_chat_info.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_chat_info.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_create_billing.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_create_billing.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_goods_manger_not_sell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_goods_manger_not_sell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_wallet_cash.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_wallet_cash.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_spear.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_spear.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_moment_main_picture.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_moment_main_picture.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_service_status.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_service_status.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_seller_common.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_seller_common.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_category_navi.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_category_navi.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_goods_manager.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_goods_manager.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_store_category_headview.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_store_category_headview.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_infomation_setup.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_infomation_setup.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_invite.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_invite.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_chat_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_chat_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_technical_home.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_technical_home.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_refresh_header.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_refresh_header.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_billing_pay.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_billing_pay.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_workspace_setup.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_workspace_setup.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_cart_listviewcell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_cart_listviewcell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/photo_wall_item.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/photo_wall_item.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_moment_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_moment_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_competitive.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_competitive.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_good.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_good.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_regist_agreement.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_regist_agreement.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_cart.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_cart.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_user_city.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_user_city.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_moment_topic_picker.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_moment_topic_picker.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/photo_album.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/photo_album.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_voice_send_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_voice_send_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_goods_detail_actionsheet.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_goods_detail_actionsheet.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_address_add.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_address_add.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_technical_demand.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_technical_demand.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_setup.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_setup.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_mine_service_sold.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_mine_service_sold.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_store_goods_detail.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_store_goods_detail.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/actionbar_store_goods.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/actionbar_store_goods.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_mine_page.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_mine_page.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_image_receive.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_image_receive.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_home_page.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_chat_info_send_cell.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_chat_info_send_cell.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_service_sold.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_service_sold.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/fragment_store_main.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/fragment_store_main.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/cell_moment_service_picker.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/cell_moment_service_picker.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/activity_floor_choose.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/activity_floor_choose.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/view_pay_actionsheet.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/view_pay_actionsheet.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/comm_topbar_ll.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/comm_topbar_ll.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/layout/adapter_system_message.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/layout/adapter_system_message.xml"
+    }
+]

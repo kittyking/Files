@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/actionsheet_out.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/actionsheet_out.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/actionsheet_in.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/actionsheet_in.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/in_from_right.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/in_from_right.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/out_from_right.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/out_from_right.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/in_from_left.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/in_from_left.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/out_from_left.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/out_from_left.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/slide_in_bottom.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/animator/slide_out_up.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/animator/slide_out_up.xml"
+    }
+]

@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.MineIntegralActivity"
+    android:background="@drawable/white_background" >
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:gravity="center"
+        android:id="@+id/integralRelative"
+        android:background="@drawable/actionbar_color">
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:background="@null"
+            android:text="积分"
+            android:textSize="12sp"
+            android:gravity="center"
+            android:id="@+id/integralTV"/>
+        <TextView android:layout_height="wrap_content"
+            android:layout_width="80dp"
+            android:background="@null"
+            android:text="0"
+            android:layout_marginTop="10dp"
+            android:textSize="25sp"
+            android:gravity="center"
+            android:layout_below="@+id/integralTV"/>
+        
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/integralRelative"
+        android:id="@+id/detailRelative"
+        android:layout_marginTop="10dp">
+        <TextView android:text="积分明细"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:textSize="12sp"
+            android:id="@+id/detailTV"
+            android:textColor="@drawable/dark_gray_color"/>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="6dp"
+            android:layout_toLeftOf="@+id/detailTV"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/user_gray_line"
+            android:layout_marginLeft="20dp"></LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_marginTop="6dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/detailTV"
+            android:background="@drawable/user_gray_line"
+            android:layout_marginRight="20dp"></LinearLayout>
+        
+    </RelativeLayout>
+    <ListView android:layout_below="@+id/detailRelative"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent">
+        
+    </ListView>
+
+
+</RelativeLayout>

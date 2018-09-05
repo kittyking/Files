@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="title_common_background">#ECECEC</drawable> 
+    <drawable name="bar_common_background">#FED853</drawable> 	
+    <drawable name="white_background">#FFFFFF</drawable>
+    <drawable name="gray_title">#B2B2B4</drawable>
+    <drawable name="light_gray_title">#AFAFAF</drawable>
+    <drawable name="black_background">#000000</drawable>
+    <drawable name="dark_gray_color">#555555</drawable>
+    <!-- <drawable name="actionbar_color">#3E8FE0</drawable> -->
+    <drawable name="actionbar_color">#FED853</drawable>
+    <drawable name="user_gray_line">#DDDDDD</drawable>
+    <drawable name="light_blue_color">#20B7FC</drawable>
+    
+    
+    <drawable name="tab_textcolor_unselected">#000000</drawable>
+    <drawable name="red_textcolor">#EC5B50</drawable>
+    <drawable name="yellow_textcolor">#FDB262</drawable>
+    
+    
+    <color name="listview_item_normal">#eef0ed</color>
+    <color name="listview_item_pressed">#d4d4d4</color>
+    <color name="transparent">#00000000</color>
+    
+    
+    
+    <!-- photopicker -->
+    <color name="gray_bg">#cccccc</color>
+    <color name="gray_dark_bg">#666666</color>
+    <!--主题颜色-->
+    <color name="top_color">#FED853</color>
+    <color name="image_checked_bg">#66000000</color>
+    <!-- 菜单栏 按钮文字颜色 -->
+    <color name="topbar_btn_text_color">#000000</color>
+    <!-- 返回按钮 字体颜色 -->
+    <color name="back_color_noclick">#000000</color>
+    <color name="back_color_click">#000000</color>
+
+    
+    
+</resources>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/title_common_background"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <ImageButton android:id="@+id/display"
+        android:layout_height="40dp"
+        android:layout_width="40dp"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/icon_store_display_kuai"
+        android:background="@drawable/white_background"/>
+    <android.support.design.widget.TabLayout  
+        android:id="@+id/main_tab"  
+        android:layout_width="match_parent"  
+        android:layout_height="40dp"
+        android:background="@drawable/white_background"
+        app:tabIndicatorColor="@drawable/red_textcolor"
+        app:tabTextColor="@drawable/black_background"
+        app:tabSelectedTextColor="@drawable/red_textcolor"
+        android:layout_toLeftOf="@+id/display"
+        />  
+    
+    <android.support.v4.view.ViewPager android:id="@+id/goodsViewPager"
+        android:layout_height="fill_parent"
+        android:layout_width="fill_parent"
+        android:layout_marginTop="1dp"
+        android:background="@drawable/white_background"
+        android:layout_below="@+id/main_tab">
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout>

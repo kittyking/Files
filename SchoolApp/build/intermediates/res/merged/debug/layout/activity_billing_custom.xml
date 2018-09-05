@@ -1,0 +1,113 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.billing.BillingCustomActivity"
+    android:orientation="vertical" >
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@drawable/white_background">
+	        <LinearLayout  
+	            android:id="@+id/allLinear"  
+	            android:layout_width="match_parent"  
+	            android:layout_height="wrap_content"  
+	            android:layout_weight="1"  
+	            android:background="@drawable/white_background"  
+	            android:gravity="center"  
+	            android:orientation="horizontal"  
+	            android:padding="10dip" >  
+	  
+	            <TextView  
+	                android:id="@+id/allTV"  
+	                android:layout_width="wrap_content"  
+	                android:layout_height="wrap_content"  
+	                android:gravity="center"  
+	                android:text="全部"
+	                android:textColor="@drawable/red_textcolor"
+	                android:textSize="15sp"/>
+            </LinearLayout>
+            <LinearLayout  
+	            android:id="@+id/payLinear"  
+	            android:layout_width="match_parent"  
+	            android:layout_height="wrap_content"  
+	            android:layout_weight="1"  
+	            android:background="@drawable/white_background"  
+	            android:gravity="center"  
+	            android:orientation="horizontal"  
+	            android:padding="10dip" >  
+	  
+	            <TextView  
+	                android:id="@+id/payTV"  
+	                android:layout_width="wrap_content"  
+	                android:layout_height="wrap_content"  
+	                android:gravity="center"  
+	                android:text="待付款"  
+	                android:textSize="15sp"/>
+            </LinearLayout>
+            <LinearLayout  
+	            android:id="@+id/receiveLinear"  
+	            android:layout_width="match_parent"  
+	            android:layout_height="wrap_content"  
+	            android:layout_weight="1"  
+	            android:background="@drawable/white_background"  
+	            android:gravity="center"  
+	            android:orientation="horizontal"  
+	            android:padding="10dip" >  
+	  
+	            <TextView  
+	                android:id="@+id/receiveTV"  
+	                android:layout_width="wrap_content"  
+	                android:layout_height="wrap_content"  
+	                android:gravity="center"  
+	                android:text="待接单"  
+	                android:textSize="15sp"/>
+            </LinearLayout>
+            <LinearLayout  
+	            android:id="@+id/postingLinear"  
+	            android:layout_width="match_parent"  
+	            android:layout_height="wrap_content"  
+	            android:layout_weight="1"  
+	            android:background="@drawable/white_background"  
+	            android:gravity="center"  
+	            android:orientation="horizontal"  
+	            android:padding="10dip" >  
+	  
+	            <TextView  
+	                android:id="@+id/postingTV"  
+	                android:layout_width="wrap_content"  
+	                android:layout_height="wrap_content"  
+	                android:gravity="center"  
+	                android:text="待发货"  
+	                android:textSize="15sp"/>
+            </LinearLayout>
+            <LinearLayout  
+	            android:id="@+id/postedLinear"  
+	            android:layout_width="match_parent"  
+	            android:layout_height="wrap_content"  
+	            android:layout_weight="1"  
+	            android:background="@drawable/white_background"  
+	            android:gravity="center"  
+	            android:orientation="horizontal"  
+	            android:padding="10dip" >  
+	  
+	            <TextView  
+	                android:id="@+id/postedTV"  
+	                android:layout_width="wrap_content"  
+	                android:layout_height="wrap_content"  
+	                android:gravity="center"  
+	                android:text="配送中"  
+	                android:textSize="15sp"/>
+            </LinearLayout>
+    </LinearLayout>
+    <TextView android:background="@drawable/title_common_background"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"
+        android:orientation="vertical"/>
+    <android.support.v4.view.ViewPager 
+        android:id="@+id/goodsViewPager"
+	    android:layout_height="fill_parent"
+	    android:layout_width="fill_parent">
+    </android.support.v4.view.ViewPager>
+
+</LinearLayout>

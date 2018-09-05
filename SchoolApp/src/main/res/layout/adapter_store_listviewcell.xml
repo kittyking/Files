@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/white_background">
+    
+    <LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal" >
+    <com.school.schoolapp.view.RoundRectImageView android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:id="@+id/shopHeadIV"
+        android:src="@drawable/icon_shop_default"/>
+    <RelativeLayout android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:layout_width="wrap_content"
+        android:layout_height="64dp">
+        <TextView android:text="嗨同学的店铺"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="19dp"
+            android:id="@+id/shopnameTV"
+            android:layout_marginTop="5dp"/>
+        <TextView android:text="0元起送"
+            android:layout_alignParentBottom="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@drawable/red_textcolor"
+            android:id="@+id/lowestTV"/>
+    </RelativeLayout>
+    <RelativeLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="64dp"
+        android:layout_marginTop="20dp"
+        android:gravity="right"
+        android:paddingRight="@dimen/user_menu_arrow_margin_right">
+        <ImageView android:src="@drawable/icon_store_xx"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:id="@+id/openedIV"/>
+        <TextView android:text="共0种商品"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/goodsNumberTV"
+            android:layout_alignParentBottom="true"/>
+    </RelativeLayout>
+        
+    </LinearLayout>
+    
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/title_common_background"
+        android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+        android:layout_marginRight="@dimen/user_menu_arrow_margin_right">
+        
+    </LinearLayout>
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="40dp">
+    
+        <ImageView android:src="@drawable/icon_store_notice_red"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/iv"
+            android:layout_centerVertical="true"/>
+        <TextSwitcher android:id="@+id/noticeSwitcher"  
+        android:layout_width="match_parent"  
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/iv"
+        android:background="@drawable/white_background"
+        android:layout_marginLeft="10dp"
+        android:layout_centerVertical="true">
+            
+        </TextSwitcher>
+        
+    
+        
+    </RelativeLayout>
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/title_common_background">
+        
+    </LinearLayout>
+
+</LinearLayout>

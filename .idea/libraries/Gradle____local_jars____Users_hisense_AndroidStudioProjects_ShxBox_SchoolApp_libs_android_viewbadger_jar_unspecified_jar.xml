@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: __local_jars__:/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/libs/android-viewbadger.jar:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SchoolApp/libs/android-viewbadger.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

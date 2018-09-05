@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:descendantFocusability="blocksDescendants">
+    <LinearLayout android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RelativeLayout android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:layout_marginLeft="20dp">
+            <com.school.schoolapp.view.RoundRectImageView android:layout_height="60dp"
+                android:layout_width="60dp"
+                android:id="@+id/goodsImg"/>
+        </RelativeLayout>
+        
+        <LinearLayout android:layout_marginLeft="10dp"
+            android:orientation="vertical"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp">
+            <TextView android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="康师傅红烧牛肉面"
+                android:textSize="18sp"
+                android:id="@+id/goodsName"/>
+            <TextView android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="难以忘怀这味道！"
+                android:textSize="12sp"
+                android:id="@+id/goodsTitle"
+                android:textColor="@drawable/red_textcolor"/>
+            <LinearLayout android:orientation="horizontal"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+                <TextView android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="￥5.0"
+                android:textStyle="bold"
+                android:id="@+id/shopPrice"
+                android:textColor="@drawable/red_textcolor"/>
+                <TextView android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="￥5.0"
+                android:textSize="10sp"
+                android:textColor="@drawable/dark_gray_color"
+                android:id="@+id/marketPrice"/>
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="20dp"
+            android:gravity="right|bottom">
+            <Button android:background="@drawable/background_cart_blue"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:text="已推荐"
+                android:textSize="12sp"
+                android:alpha="0"
+                android:id="@+id/specialBtn"
+                android:enabled="false"
+                android:layout_marginRight="5dp"/>
+            <Button android:background="@drawable/background_cart_blue"
+                android:layout_width="50dp"
+                android:layout_height="30dp"
+                android:text="上架"
+                android:textSize="12sp"
+                android:id="@+id/normalBtn"/>
+        </LinearLayout>
+        
+    </LinearLayout>
+    
+    <LinearLayout android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/title_common_background"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"></LinearLayout>
+
+</LinearLayout>

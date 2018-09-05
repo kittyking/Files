@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tabtext.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tabtext.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_goods_add_radiobtn.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_goods_add_radiobtn.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/hisense/.android/build-cache/2f8ab2ea83789ffc4059852e19ca63afa6c52a07/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/xml_back_textcolor.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/xml_back_textcolor.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/listitem_selector.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/listitem_selector.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_switch_btn.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_switch_btn.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_skill_way.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_skill_way.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_technical_right.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_technical_right.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_technical_left.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_technical_left.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/tab_indicator.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/tab_indicator.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_goods_add_textcolor.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_goods_add_textcolor.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tab_moment.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tab_moment.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tab_textcolor.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tab_textcolor.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_submit_background_yellow.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_submit_background_yellow.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_verify_background_yellow.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_verify_background_yellow.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_servicestatus_checked.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_servicestatus_checked.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_checkbox.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_checkbox.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_dot.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_dot.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tab_mine.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tab_mine.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tab_store.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tab_store.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_listitem_click.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_listitem_click.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_back_arrow.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_back_arrow.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tab_chat.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tab_chat.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/selector_tab_help.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/selector_tab_help.xml"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable/checkbox_iphone.xml",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable/checkbox_iphone.xml"
+    }
+]

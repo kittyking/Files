@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/white_background">
+    
+    <android.support.v4.view.ViewPager android:id="@+id/adViewpager"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@drawable/actionbar_color">
+        
+    </android.support.v4.view.ViewPager>
+    <RelativeLayout android:id="@+id/noticeRL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_background"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp">
+        <ImageView android:id="@+id/status"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:src="@drawable/icon_store_yy"
+            android:layout_marginLeft="20dp"
+            android:textColor="@drawable/red_textcolor"
+            android:layout_centerVertical="true"/>
+        <ImageView android:id="@+id/noticePic"
+            android:layout_toRightOf="@+id/status"
+            android:src="@drawable/icon_store_notice_red"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_centerVertical="true"/>
+        <TextSwitcher android:id="@+id/noticeSwitcher"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dp"
+	        android:layout_gravity="center"
+	        android:layout_toRightOf="@+id/noticePic"
+	        android:layout_centerVertical="true">
+        
+    	</TextSwitcher>
+    </RelativeLayout>
+    <TextView android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="10dp"
+        android:background="@drawable/title_common_background" />
+    
+    
+
+</LinearLayout>

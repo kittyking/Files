@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.work.MineCardActivity">
+    <Button android:background="@drawable/actionbar_color"
+        android:text="提交"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/submitBtn"/>
+    
+    <LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/title_common_background" 
+    android:orientation="vertical"
+    android:paddingTop="10dp"
+    android:paddingBottom="20dp"
+    android:layout_above="@+id/submitBtn">
+    <RelativeLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/mine_apply_info_marginleft"
+        android:layout_marginRight="@dimen/mine_apply_info_marginleft"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/background_card_upload">
+        <ImageButton android:layout_centerInParent="true"
+            android:src="@drawable/background_addcard_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:id="@+id/cardTopAddBtn"/>
+        <TextView android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="上传身份证正面"
+            android:layout_below="@+id/cardTopAddBtn"
+            android:textColor="@drawable/dark_gray_color"
+            android:gravity="center"
+            android:layout_marginTop="5dp"/>
+        <ImageView android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/topImage"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+    </RelativeLayout>
+    <RelativeLayout android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_marginLeft="@dimen/mine_apply_info_marginleft"
+        android:layout_marginRight="@dimen/mine_apply_info_marginleft"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/background_card_upload">
+        <ImageButton android:layout_centerInParent="true"
+            android:src="@drawable/background_addcard_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:id="@+id/cardBottomAddBtn"/>
+        <TextView android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="上传身份证反面"
+            android:layout_below="@+id/cardBottomAddBtn"
+            android:textColor="@drawable/dark_gray_color"
+            android:gravity="center"
+            android:layout_marginTop="5dp"/>
+        <ImageView android:layout_alignParentTop="true"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentRight="true"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/bottomImage"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"/>
+    </RelativeLayout>
+    
+
+</LinearLayout>
+</RelativeLayout>

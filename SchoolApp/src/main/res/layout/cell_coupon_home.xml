@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@drawable/actionbar_color" >
+    <ImageView android:src="@drawable/icon_coupon_home_left"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_centerVertical="true"/>
+    <TextView android:id="@+id/price"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="3"
+        android:textSize="40dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="20dp"/>
+    <TextView android:text="元"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toRightOf="@+id/price"
+        android:layout_alignBottom="@+id/price"
+        android:layout_marginBottom="5dp"/>
+    <ImageView android:id="@+id/rightiv"
+        android:src="@drawable/icon_coupon_home_right"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"/>
+    <TextView android:id="@+id/summary"
+        android:text="夜猫店满10即可使用"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toLeftOf="@+id/rightiv"
+        android:layout_alignTop="@+id/price"
+        android:layout_marginRight="10dp"/>
+    <TextView android:id="@+id/endtime"
+        android:text="有效期至2017-11-11"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_toLeftOf="@+id/rightiv"
+        android:layout_alignBottom="@+id/price"
+        android:layout_marginRight="10dp"
+        android:layout_marginBottom="10dp"
+        android:textSize="12sp"/>
+    <TextView android:singleLine="false"
+        android:text="现金券"
+        android:layout_height="wrap_content"
+        android:layout_width="15dp"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginRight="20dp"
+        android:textSize="16sp"/>
+    
+
+</RelativeLayout>

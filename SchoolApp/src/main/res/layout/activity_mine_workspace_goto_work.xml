@@ -1,0 +1,70 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.workspace.MineWorkspaceGotoWorkActivity" 
+    android:orientation="vertical">
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/light_blue_color"
+        android:gravity="center">
+        <TextView android:id="@+id/dateTV"
+            android:text="2016-05-25 星期几"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@drawable/white_background"
+            android:layout_marginTop="20dp"/>
+        <TextView android:id="@+id/onlineTV"
+            android:text="在线时间 1小时59分59秒"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@drawable/white_background"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="20dp"/>
+    </LinearLayout>
+    <RelativeLayout android:id="@+id/status"
+        android:alpha="0"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/title_common_background">
+
+        <Button
+            android:id="@+id/workButton"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="62dp"
+            android:background="@drawable/background_circle_blue"
+            android:text="上班"
+            android:textColor="@drawable/white_background"/>
+
+        <Button
+            android:id="@+id/restButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/workButton"
+            android:layout_marginBottom="16dp"
+            android:layout_marginLeft="19dp"
+            android:layout_toRightOf="@+id/workButton"
+            android:background="@drawable/background_circle_white"
+            android:text="下班"
+            android:textSize="12sp"  
+            android:alpha="0"/>
+
+        <Button
+            android:id="@+id/recordButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/restButton"
+            android:layout_marginRight="18dp"
+            android:layout_toLeftOf="@+id/workButton"
+            android:background="@drawable/background_circle_white"
+            android:text="订单\n记录"
+            android:textSize="12sp" />
+        
+    </RelativeLayout>
+    
+
+</LinearLayout>

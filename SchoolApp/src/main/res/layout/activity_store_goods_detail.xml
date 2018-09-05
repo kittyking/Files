@@ -1,0 +1,158 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.store.StoreGoodsDetailActivity"
+    android:background="@drawable/title_common_background" >
+
+
+    <LinearLayout android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@drawable/white_background"
+        android:layout_alignParentBottom="true"
+        android:gravity="right"
+        android:id="@+id/cartLayout">
+        <Button android:id="@+id/addCart"
+            android:layout_height="34dp"
+            android:layout_width="120dp"
+            android:background="@drawable/background_cart_orange"
+            android:text="加入购物车"
+            android:textColor="@drawable/white_background"
+            android:textSize="13sp"
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="@dimen/user_menu_arrow_margin_right"/>
+    </LinearLayout>
+    
+    <ScrollView android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/cartLayout"
+        android:layout_marginBottom="@dimen/mine_apply_info_margintopbottom">
+        <LinearLayout android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/white_background">
+                <android.support.v4.view.ViewPager android:id="@+id/imgPager"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content">
+    			</android.support.v4.view.ViewPager>
+            </LinearLayout>
+        
+	        <RelativeLayout 
+	            android:orientation="vertical"
+	            android:layout_width="match_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_marginTop="1dp"
+	            android:background="@drawable/white_background"
+	            android:paddingLeft="40dp">
+	            <TextView android:layout_height="wrap_content"
+	                android:layout_width="wrap_content"
+	                android:text="康师傅红烧牛肉面"
+	                android:textSize="18sp"
+	                android:id="@+id/goodsName"
+	                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"/>
+	            <TextView android:layout_height="wrap_content"
+	                android:layout_width="wrap_content"
+	                android:text="难以忘怀这味道！"
+	                android:textSize="12sp"
+	                android:id="@+id/goodsTitle"
+	                android:textColor="@drawable/red_textcolor"
+	                android:layout_marginTop="5dp"
+	                android:layout_below="@+id/goodsName"/>
+	                <TextView android:layout_height="wrap_content"
+	                android:layout_width="wrap_content"
+	                android:text="￥5.0"
+	                android:textStyle="bold"
+	                android:id="@+id/shopPrice"
+	                android:textColor="@drawable/red_textcolor"
+	                android:layout_below="@+id/goodsTitle"
+	                android:layout_marginTop="10dp"/>
+	                <TextView android:layout_height="wrap_content"
+	                android:layout_width="wrap_content"
+	                android:text="￥5.0"
+	                android:textSize="10sp"
+	                android:textColor="@drawable/dark_gray_color"
+	                android:id="@+id/marketPrice"
+	                android:layout_marginLeft="5dp"
+	                android:layout_alignBottom="@+id/shopPrice"
+	                android:layout_toRightOf="@+id/shopPrice"/>
+	                
+	                <ImageButton android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:background="@drawable/icon_goods_cut"
+                    android:id="@+id/cutBtn"
+                    android:visibility="invisible"
+	                android:layout_alignTop="@+id/addBtn"
+	                android:layout_alignBottom="@+id/addBtn"
+	                android:layout_toLeftOf="@+id/numberTV"/>
+                <TextView android:layout_width="30dp"
+	                android:layout_height="match_parent"
+	                android:text="0"
+	                android:gravity="center"
+	                android:textSize="20sp"
+	                android:id="@+id/numberTV"
+	                android:alpha="0"
+	                android:layout_alignTop="@+id/addBtn"
+	                android:layout_alignBottom="@+id/addBtn"
+	                android:layout_toLeftOf="@+id/addBtn"/>
+               <!--  <ImageButton android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:src="@drawable/icon_goods_add"
+                    android:background="@null"
+                    android:id="@+id/addBtn"
+                    android:layout_below="@+id/goodsTitle"
+                    android:layout_alignParentRight="true"
+                    android:layout_marginRight="20dp"/> -->
+                
+            </RelativeLayout>
+            <LinearLayout android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/white_background"
+                android:layout_marginTop="10dp"
+                android:paddingBottom="10dp">
+	            <RadioGroup android:id="@+id/infoRB"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+	                android:orientation="horizontal"
+	                android:layout_marginTop="10dp">
+	                <RadioButton android:id="@+id/tw"
+	                    android:layout_width="match_parent"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="图文信息"
+	                    android:button="@null"
+	                    android:gravity="center"
+	                    android:textColor="@drawable/selector_tab_textcolor"
+	                    android:checked="true"/>
+	                <RadioButton android:id="@+id/xq"
+	                    android:layout_width="match_parent"
+	                    android:layout_height="wrap_content"
+	                    android:layout_weight="1"
+	                    android:text="商品详情"
+	                    android:button="@null"
+	                    android:gravity="center"
+	                    android:textColor="@drawable/selector_tab_textcolor"/>
+	                
+	            </RadioGroup>
+                
+            </LinearLayout>
+            
+            <LinearLayout android:orientation="horizontal"
+                android:layout_height="100dp"
+                android:layout_width="match_parent"
+                android:background="@drawable/white_background">
+                <LinearLayout android:orientation="horizontal"
+	                android:layout_height="1dp"
+	                android:layout_width="match_parent"
+	                android:background="@drawable/title_common_background"
+	                android:layout_marginLeft="@dimen/mine_apply_info_marginleft"
+	                android:layout_marginRight="@dimen/mine_apply_info_marginright">
+	                
+	            </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+        
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <TextView android:id="@+id/divider"
+        android:layout_height="2dp"
+        android:layout_width="match_parent"
+        android:background="@drawable/title_common_background"/>
+    <!--  com.school.schoolapp.view.cornerimage.CircularImage -->
+    <ImageView android:id="@+id/usericon"
+        android:layout_height="50dp"
+        android:layout_width="50dp"
+        android:layout_below="@+id/divider"
+        android:src="@drawable/icon_pay_haitongxue"
+        android:layout_marginTop="@dimen/user_menu_arrow_margin_right"
+        android:layout_marginLeft="@dimen/user_menu_arrow_margin_right"/>
+    <ImageView android:id="@+id/usersex"
+        android:layout_height="15dp"
+        android:layout_width="15dp"
+        android:src="@drawable/icon_man"
+        android:layout_toRightOf="@+id/usericon"
+        android:layout_alignTop="@+id/usericon"
+        android:layout_marginLeft="10dp"/>
+    <ImageView android:id="@+id/location"
+        android:layout_height="15dp"
+        android:layout_width="15dp"
+        android:src="@drawable/icon_mine_location"
+        android:layout_below="@+id/usersex"
+        android:layout_alignLeft="@+id/usersex"
+        android:layout_marginTop="5dp"/>
+    <TextView android:id="@+id/username"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="用户名"
+        android:layout_toRightOf="@+id/usersex"
+        android:layout_alignTop="@+id/usersex"
+        android:layout_marginLeft="10dp"/>
+    <TextView android:id="@+id/userlocation"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="学校名称"
+        android:textSize="12sp"
+        android:textColor="@drawable/dark_gray_color"
+        android:layout_alignBottom="@+id/location"
+        android:layout_alignLeft="@+id/username"/>
+    <Button android:id="@+id/userevelution"
+        android:layout_width="wrap_content"
+        android:layout_height="22dp"
+        android:text="+ 关注"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:background="@drawable/actionbar_color"
+        android:layout_alignParentRight="true"
+        android:layout_alignTop="@+id/username"
+        android:layout_marginRight="@dimen/user_menu_arrow_margin_right"/>
+    
+    <TextView android:id="@+id/tectitle"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:text="技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题技能标题"
+        android:textSize="12sp"
+        android:textColor="@drawable/dark_gray_color"
+        android:layout_below="@+id/usericon"
+        android:layout_alignLeft="@+id/usericon"
+        android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+        android:layout_marginTop="10dp"/>
+    
+    <LinearLayout android:id="@+id/info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="1dp"
+        android:paddingBottom="1dp"
+        android:background="@drawable/title_common_background"
+        android:layout_below="@+id/tectitle"
+        android:layout_marginTop="10dp"
+        android:orientation="vertical">
+        <RelativeLayout android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="@drawable/white_background"
+            android:paddingLeft="20dp"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp">
+            <ImageView android:id="@+id/icon1"
+                android:layout_height="44dp"
+                android:layout_width="44dp"
+                android:src="@drawable/icon_pay_haitongxue"/>   
+                
+            <TextView android:id="@+id/title1"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="这里是标题"
+                android:layout_toRightOf="@+id/icon1"
+                android:layout_marginLeft="10dp"/>
+            
+            <TextView android:id="@+id/price1"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="￥12.0/小时"
+                android:textColor="@drawable/red_textcolor"
+                android:layout_toRightOf="@+id/icon1"
+                android:layout_alignBottom="@+id/icon1"
+                android:layout_marginLeft="10dp"/>
+            <TextView android:id="@+id/number1"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="12笔"
+                android:textSize="12sp"
+                android:textColor="@drawable/dark_gray_color"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+                android:layout_alignBottom="@+id/icon1"/>
+        </RelativeLayout>
+        <RelativeLayout android:id="@+id/service2"
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:background="@drawable/white_background"
+            android:paddingLeft="20dp"
+            android:paddingBottom="10dp">
+            <TextView android:background="@drawable/title_common_background"
+                android:layout_height="1dp"
+                android:layout_width="match_parent"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="20dp"/>
+            <ImageView android:id="@+id/icon2"
+                android:layout_height="44dp"
+                android:layout_width="44dp"
+                android:src="@drawable/icon_pay_haitongxue"
+                android:layout_marginTop="10dp"/>   
+                
+            <TextView android:id="@+id/title2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="这里是标题"
+                android:layout_toRightOf="@+id/icon2"
+                android:layout_marginLeft="10dp"
+                android:layout_alignTop="@+id/icon2"/>
+            
+            <TextView android:id="@+id/price2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="￥12.0/小时"
+                android:textColor="@drawable/red_textcolor"
+                android:layout_toRightOf="@+id/icon2"
+                android:layout_alignBottom="@+id/icon2"
+                android:layout_marginLeft="10dp"/>
+            <TextView android:id="@+id/number2"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="12笔"
+                android:textSize="12sp"
+                android:textColor="@drawable/dark_gray_color"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="@dimen/user_menu_arrow_margin_right"
+                android:layout_alignBottom="@+id/icon2"/>
+        </RelativeLayout>
+        
+    </LinearLayout>
+
+ 	<TextView
+	    android:id="@+id/divider2"
+	    android:layout_width="match_parent"
+	    android:layout_height="12dp"
+	    android:layout_below="@+id/info"
+	    android:layout_marginTop="20dp"
+	    android:background="@drawable/title_common_background" />
+
+</RelativeLayout>

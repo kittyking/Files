@@ -1,0 +1,19 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.technical.TechnicalMenuActivity" >
+    <LinearLayout android:id="@+id/level1"
+        android:layout_height="match_parent"
+        android:layout_width="100dp"
+        android:background="@drawable/title_common_background"
+        android:orientation="vertical">
+        
+    </LinearLayout>
+    <ListView android:id="@+id/level2"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_toRightOf="@+id/level1"
+        android:background="@drawable/white_background"></ListView>
+
+</RelativeLayout>

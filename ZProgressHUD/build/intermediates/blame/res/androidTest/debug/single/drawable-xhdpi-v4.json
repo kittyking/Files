@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/success.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/success.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/failure.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/failure.png"
+    }
+]

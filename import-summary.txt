@@ -1,0 +1,238 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Manifest Merging:
+-----------------
+Your project uses libraries that provide manifests, and your Eclipse
+project did not explicitly turn on manifest merging. In Android Gradle
+projects, manifests are always merged (meaning that contents from your
+libraries' manifests will be merged into the app manifest. If you had
+manually copied contents from library manifests into your app manifest
+you may need to remove these for the app to build correctly.
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From SchoolApp:
+* .DS_Store
+* ic_launcher-web.png
+* proguard-project.txt
+From ZProgressHUD:
+* .DS_Store
+* build.gradle
+* ic_launcher-web.png
+* proguard-project.txt
+From design:
+* build.gradle
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:23.4.0
+android-support-v7-appcompat.jar => com.android.support:appcompat-v7:23.4.0
+gson-2.3.1.jar => com.google.code.gson:gson:2.3.1
+
+Replaced Libraries with Dependencies:
+-------------------------------------
+The importer recognized the following library projects as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the source files in your project were of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the library replacement in the import wizard and try
+again:
+
+android-support-v7-appcompat => [com.android.support:appcompat-v7:23.4.0]
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In ZProgressHUD:
+* AndroidManifest.xml => ZProgressHUD/src/main/AndroidManifest.xml
+* assets/ => ZProgressHUD/src/main/assets
+* res/ => ZProgressHUD/src/main/res/
+* src/ => ZProgressHUD/src/main/java/
+In design:
+* AndroidManifest.xml => design/src/main/AndroidManifest.xml
+* assets/ => design/src/main/assets
+* res/ => design/src/main/res/
+* src/ => design/src/main/java
+* src/.readme => design/src/main/resources/.readme
+In SchoolApp:
+* AndroidManifest.xml => SchoolApp/src/main/AndroidManifest.xml
+* assets/ => SchoolApp/src/main/assets
+* libs/BaiduLBS_Android.jar => SchoolApp/libs/BaiduLBS_Android.jar
+* libs/GifView.jar => SchoolApp/libs/GifView.jar
+* libs/VerticalViewPager.jar => SchoolApp/libs/VerticalViewPager.jar
+* libs/alipaySdk-20160516.jar => SchoolApp/libs/alipaySdk-20160516.jar
+* libs/android-async-http-1.4.8.jar => SchoolApp/libs/android-async-http-1.4.8.jar
+* libs/android-viewbadger.jar => SchoolApp/libs/android-viewbadger.jar
+* libs/apache-commons-discovery.jar => SchoolApp/libs/apache-commons-discovery.jar
+* libs/apache-commons-id.jar => SchoolApp/libs/apache-commons-id.jar
+* libs/arm64-v8a/libhyphenate.so => SchoolApp/src/main/jniLibs/arm64-v8a/libhyphenate.so
+* libs/arm64-v8a/libhyphenate_av.so => SchoolApp/src/main/jniLibs/arm64-v8a/libhyphenate_av.so
+* libs/arm64-v8a/libhyphenate_av_recorder.so => SchoolApp/src/main/jniLibs/arm64-v8a/libhyphenate_av_recorder.so
+* libs/arm64-v8a/libjcore100.so => SchoolApp/src/main/jniLibs/arm64-v8a/libjcore100.so
+* libs/arm64-v8a/liblocSDK6a.so => SchoolApp/src/main/jniLibs/arm64-v8a/liblocSDK6a.so
+* libs/armeabi/libhyphenate.so => SchoolApp/src/main/jniLibs/armeabi/libhyphenate.so
+* libs/armeabi/libhyphenate_av.so => SchoolApp/src/main/jniLibs/armeabi/libhyphenate_av.so
+* libs/armeabi/libhyphenate_av_recorder.so => SchoolApp/src/main/jniLibs/armeabi/libhyphenate_av_recorder.so
+* libs/armeabi/libjcore100.so => SchoolApp/src/main/jniLibs/armeabi/libjcore100.so
+* libs/armeabi/liblocSDK6a.so => SchoolApp/src/main/jniLibs/armeabi/liblocSDK6a.so
+* libs/glide-3.6.1.jar => SchoolApp/libs/glide-3.6.1.jar
+* libs/httpclient-4.5.1.jar => SchoolApp/libs/httpclient-4.5.1.jar
+* libs/httpcore-4.4.3.jar => SchoolApp/libs/httpcore-4.4.3.jar
+* libs/hyphenatechat_3.2.2.jar => SchoolApp/libs/hyphenatechat_3.2.2.jar
+* libs/jcore-android_v1.0.0.jar => SchoolApp/libs/jcore-android_v1.0.0.jar
+* libs/jpush-android_v3.0.0.jar => SchoolApp/libs/jpush-android_v3.0.0.jar
+* libs/libammsdk.jar => SchoolApp/libs/libammsdk.jar
+* libs/mips/libjcore100.so => SchoolApp/src/main/jniLibs/mips/libjcore100.so
+* libs/mips64/libjcore100.so => SchoolApp/src/main/jniLibs/mips64/libjcore100.so
+* libs/universal-image-loader-1.9.5.jar => SchoolApp/libs/universal-image-loader-1.9.5.jar
+* libs/x86/libhyphenate.so => SchoolApp/src/main/jniLibs/x86/libhyphenate.so
+* libs/x86/libhyphenate_av.so => SchoolApp/src/main/jniLibs/x86/libhyphenate_av.so
+* libs/x86/libhyphenate_av_recorder.so => SchoolApp/src/main/jniLibs/x86/libhyphenate_av_recorder.so
+* libs/x86/libjcore100.so => SchoolApp/src/main/jniLibs/x86/libjcore100.so
+* libs/x86/liblocSDK6a.so => SchoolApp/src/main/jniLibs/x86/liblocSDK6a.so
+* lint.xml => SchoolApp/lint.xml
+* res/ => SchoolApp/src/main/res/
+* src/ => SchoolApp/src/main/java/
+* src/.DS_Store => SchoolApp/src/main/resources/.DS_Store
+* src/com/.DS_Store => SchoolApp/src/main/resources/com/.DS_Store
+* src/com/school/.DS_Store => SchoolApp/src/main/resources/com/school/.DS_Store
+* src/com/school/schoolapp/.DS_Store => SchoolApp/src/main/resources/com/school/schoolapp/.DS_Store
+* f000.PNG => f000.png
+* f001.PNG => f001.png
+* f002.PNG => f002.png
+* f003.PNG => f003.png
+* f004.PNG => f004.png
+* f005.PNG => f005.png
+* f006.PNG => f006.png
+* f007.PNG => f007.png
+* f008.PNG => f008.png
+* f009.PNG => f009.png
+* f010.PNG => f010.png
+* f011.PNG => f011.png
+* f012.PNG => f012.png
+* f013.PNG => f013.png
+* f014.PNG => f014.png
+* f015.PNG => f015.png
+* f016.PNG => f016.png
+* f017.PNG => f017.png
+* f018.PNG => f018.png
+* f019.PNG => f019.png
+* f020.PNG => f020.png
+* f021.PNG => f021.png
+* f022.PNG => f022.png
+* f023.PNG => f023.png
+* f024.PNG => f024.png
+* f025.PNG => f025.png
+* f026.PNG => f026.png
+* f027.PNG => f027.png
+* f028.PNG => f028.png
+* f029.PNG => f029.png
+* f030.PNG => f030.png
+* f031.PNG => f031.png
+* f032.PNG => f032.png
+* f033.PNG => f033.png
+* f034.PNG => f034.png
+* f035.PNG => f035.png
+* f036.PNG => f036.png
+* f037.PNG => f037.png
+* f038.PNG => f038.png
+* f039.PNG => f039.png
+* f040.PNG => f040.png
+* f041.PNG => f041.png
+* f042.PNG => f042.png
+* f043.PNG => f043.png
+* f044.PNG => f044.png
+* f045.PNG => f045.png
+* f046.PNG => f046.png
+* f047.PNG => f047.png
+* f048.PNG => f048.png
+* f049.PNG => f049.png
+* f050.PNG => f050.png
+* f051.PNG => f051.png
+* f052.PNG => f052.png
+* f053.PNG => f053.png
+* f054.PNG => f054.png
+* f055.PNG => f055.png
+* f056.PNG => f056.png
+* f057.PNG => f057.png
+* f058.PNG => f058.png
+* f059.PNG => f059.png
+* f060.PNG => f060.png
+* f061.PNG => f061.png
+* f062.PNG => f062.png
+* f063.PNG => f063.png
+* f064.PNG => f064.png
+* f065.PNG => f065.png
+* f066.PNG => f066.png
+* f067.PNG => f067.png
+* f068.PNG => f068.png
+* f069.PNG => f069.png
+* f070.PNG => f070.png
+* f071.PNG => f071.png
+* f072.PNG => f072.png
+* f073.PNG => f073.png
+* f074.PNG => f074.png
+* f075.PNG => f075.png
+* f076.PNG => f076.png
+* f077.PNG => f077.png
+* f078.PNG => f078.png
+* f079.PNG => f079.png
+* f080.PNG => f080.png
+* f081.PNG => f081.png
+* f082.PNG => f082.png
+* f083.PNG => f083.png
+* f084.PNG => f084.png
+* f085.PNG => f085.png
+* f086.PNG => f086.png
+* f087.PNG => f087.png
+* f088.PNG => f088.png
+* f089.PNG => f089.png
+* f090.PNG => f090.png
+* f091.PNG => f091.png
+* f092.PNG => f092.png
+* f093.PNG => f093.png
+* f094.PNG => f094.png
+* f095.PNG => f095.png
+* f096.PNG => f096.png
+* f097.PNG => f097.png
+* f098.PNG => f098.png
+* f099.PNG => f099.png
+* f100.PNG => f100.png
+* f101.PNG => f101.png
+* f102.PNG => f102.png
+* f103.PNG => f103.png
+* f104.PNG => f104.png
+* f105.PNG => f105.png
+* f106.PNG => f106.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

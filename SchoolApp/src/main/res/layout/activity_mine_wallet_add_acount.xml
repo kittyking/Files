@@ -1,0 +1,216 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.wallet.MineWalletAddAcountActivity"
+    android:background="@drawable/title_common_background"
+    android:orientation="vertical" >
+    
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@drawable/white_background"
+        android:layout_marginTop="10dp">
+        <RadioGroup android:layout_height="100dp"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <RadioButton android:id="@+id/zfbRB"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:checked="true"
+	            android:drawableLeft="@drawable/icon_pay_zhifubao"/>
+                <RadioButton android:id="@+id/wxRB"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+	            android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/zfbIV"
+                android:layout_marginLeft="20dp"
+                android:drawableLeft="@drawable/icon_pay_weixin"/>
+         </RadioGroup>
+    </LinearLayout>
+    
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background">
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="账号    "
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <EditText android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入账号"
+                android:background="@null"
+                android:textSize="13sp"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="11dp"
+            android:background="@drawable/title_common_background"
+            android:id="@+id/line"></LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="姓名    "
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <EditText android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入姓名"
+                android:background="@null"
+                android:textSize="13sp"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="11dp"
+            android:background="@drawable/title_common_background">
+        </LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="身份证"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <EditText android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入身份证号码"
+                android:background="@null"
+                android:textSize="13sp"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="11dp"
+            android:background="@drawable/title_common_background"></LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="手机号"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <EditText android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入手机号码"
+                android:background="@null"
+                android:textSize="13sp"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="11dp"
+            android:background="@drawable/title_common_background"></LinearLayout>
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="10dp">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="验证码"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <EditText android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:hint="请输入短信验证码"	
+                android:background="@null"
+                android:textSize="13sp"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <LinearLayout android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:gravity="right"
+                android:layout_marginRight="20dp">
+                <Button android:id="@+id/send"
+                    android:layout_height="30dp"
+                    android:layout_width="wrap_content"
+                    android:background="@drawable/background_register_verify_btn"
+                    android:text="发送验证码"
+                    android:textSize="12sp"
+                    android:layout_marginTop="5dp"/>
+            </LinearLayout>
+        </LinearLayout>
+        
+        
+    </LinearLayout>
+    
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="20dp">
+        
+	    <TextView android:id="@+id/wty"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:text="我同意"
+	        android:textSize="14sp"/>
+	    <Button android:layout_toRightOf="@+id/wty"
+	        android:layout_height="wrap_content"
+	        android:layout_width="wrap_content"
+	        android:background="@null"
+	        android:text="《支付服务协议》"
+	        android:layout_alignTop="@+id/wty"
+	        android:layout_alignBottom="@+id/wty"
+	        android:textSize="14sp"
+	        android:textColor="@drawable/actionbar_color"
+	        android:textStyle="bold"/>
+    </RelativeLayout>
+    
+    <RelativeLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp">
+        <Button android:id="@+id/submit"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@drawable/background_submit_btn"
+        android:text="提交"
+        android:layout_centerInParent="true"/>
+    </RelativeLayout>
+    
+    <LinearLayout android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="20dp"
+        android:paddingLeft="20dp">
+        <TextView android:text="温馨提示"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"/>
+        
+        <TextView android:text="提现时间为每月1-3,16-18日"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textColor="@drawable/dark_gray_color"
+            android:layout_marginTop="10dp"/>
+    </LinearLayout>
+    
+    
+
+</LinearLayout>

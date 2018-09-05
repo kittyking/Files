@@ -1,0 +1,4 @@
+#Tue Sep 04 14:59:42 CST 2018
+base.0=/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4
+renamed.0=classes.dex
+file.0=/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex

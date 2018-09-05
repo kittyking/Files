@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SchoolApp/SchoolApp.iml" filepath="$PROJECT_DIR$/SchoolApp/SchoolApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShxBox.iml" filepath="$PROJECT_DIR$/ShxBox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZProgressHUD/ZProgressHUD.iml" filepath="$PROJECT_DIR$/ZProgressHUD/ZProgressHUD.iml" />
+    </modules>
+  </component>
+</project>

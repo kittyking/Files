@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="44dp"
+    android:background="@drawable/title_common_background" >
+    <ImageButton
+	        android:id="@+id/backButton"
+	        android:layout_width="44dp"
+	        android:layout_height="44dp" 
+	        android:scaleType="fitXY"
+	        android:background="@null"
+	        android:src="@drawable/icon_arrow_back"
+	        android:padding="15dp"
+	        android:layout_alignParentLeft="true"/>
+        <Button
+	        android:id="@+id/doButton"
+	        android:layout_width="50dp"
+	        android:layout_height="fill_parent"
+	        android:textSize="12sp" 
+	        android:text="筛选"
+	        android:background="@null"
+	        android:layout_alignParentRight="true"/>
+        <RelativeLayout android:layout_width="wrap_content"
+	        android:layout_height="fill_parent"
+	        android:layout_toLeftOf="@+id/doButton"
+	        android:layout_toRightOf="@+id/backButton"
+	        android:layout_marginLeft="6dp"
+	        android:background="@drawable/white_background"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+            <ImageButton android:id="@+id/searchbtn"
+                android:background="@null"
+                android:src="@drawable/icon_search_blue"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_centerVertical="true"
+                android:layout_marginRight="5dp"/>
+            <EditText android:id="@+id/searchtxt"
+                android:layout_height="match_parent"
+                android:layout_width="match_parent"
+                android:layout_toLeftOf="@+id/searchbtn"
+                android:layout_alignParentLeft="true"
+                android:background="@drawable/white_background"
+                android:hint="请输入您要查询的内容"
+                android:layout_centerInParent="true"
+                android:layout_marginRight="10dp"
+                android:textSize="13sp"
+                android:paddingLeft="5dp"/>
+        </RelativeLayout>
+
+</RelativeLayout>

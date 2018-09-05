@@ -1,0 +1,890 @@
+[
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_chat_receive.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_chat_receive.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_call_green.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_call_green.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_contact.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_contact.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_guide02.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_guide02.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_skill_category_last.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_skill_category_last.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_location.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_location.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_fabufuwu.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_fabufuwu.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_login.jpg",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_login.jpg"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_login_phone.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_login_phone.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_wodejianzhi.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_wodejianzhi.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_technical_ad.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_technical_ad.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_rule_actionbar.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_rule_actionbar.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/base_tabpager_indicator_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/base_tabpager_indicator_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_wodetoubiao.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_wodetoubiao.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_submit_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_submit_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_goods_add_close.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_goods_add_close.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo_x144.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/logo_x144.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_search_blue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_search_blue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_location.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_location.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_pay_haitongxue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_pay_haitongxue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_goods_add.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_goods_add.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_txt.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_txt.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_pay_zhifubao.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_pay_zhifubao.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_no_development.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_no_development.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_submit_btn_pressed.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_submit_btn_pressed.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_card_upload.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_card_upload.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_skillway_publish.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_skillway_publish.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_skill_publish_add.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_skill_publish_add.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mail_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mail_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_mine_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_mine_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_phone_green.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_phone_green.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_tuoguanfangshi.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_tuoguanfangshi.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_technical_title_left_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_technical_title_left_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/failure.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/default/res/drawable-xxhdpi-v4/failure.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_wallet_acountmanager.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_wallet_acountmanager.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_stars.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_stars.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_wallet_small.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_wallet_small.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_cart_white.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_cart_white.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_addcard_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_addcard_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_backarrow_dark.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_backarrow_dark.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_login_verify_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_login_verify_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_dot_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_dot_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_technical_title_right.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_technical_title_right.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/fxq_bg.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/fxq_bg.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_weirenzheng.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_weirenzheng.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_register_verify_btn_timer.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_register_verify_btn_timer.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_send_arrow.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_send_arrow.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_wodexuanshang.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_wodexuanshang.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_cart_orange.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_cart_orange.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_alpha_black.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_alpha_black.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_guanlifuwu.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_guanlifuwu.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_store_notice_blue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_store_notice_blue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_lingshigongzuotai.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_lingshigongzuotai.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_express.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_express.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_animation_circle.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_animation_circle.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_yellow.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_yellow.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_login_btn_pressed.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_login_btn_pressed.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_kaquanbao.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_kaquanbao.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_chat_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_chat_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_arrow_back.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_arrow_back.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_goods_xian_img_background.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_goods_xian_img_background.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo_login.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/logo_login.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_pinglun.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_pinglun.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_yishoufuwu.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_yishoufuwu.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_home_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_home_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_skillway_publish_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_skillway_publish_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_gooddetail_cart_right.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_gooddetail_cart_right.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_help_actionbar.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_help_actionbar.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_gooddetail_cart_left.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_gooddetail_cart_left.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_cart_yellow.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_cart_yellow.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_man.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_man.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_add.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_add.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/base_action_bar_bg.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/base_action_bar_bg.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/tick.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/tick.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_realname.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_realname.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_workspace_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_workspace_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_mine_main.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_mine_main.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_wallet_idmanager_close.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_wallet_idmanager_close.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_dot_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_dot_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_technical_hztt.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_technical_hztt.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_menu_more.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_menu_more.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_woman.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_woman.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_address_blue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_address_blue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/checkbox_on.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/checkbox_on.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_good_detail_close.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_good_detail_close.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_search_black.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_search_black.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_technical_title_right_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_technical_title_right_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_pay_haitongxue_small.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_pay_haitongxue_small.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_woman.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_woman.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_circle_blue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_circle_blue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_guide01.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_guide01.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_apply01_highlight.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_apply01_highlight.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_address_edit.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_address_edit.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_faxuqiu.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_faxuqiu.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_login_edittext.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_login_edittext.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_home_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_home_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_shop_default.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_shop_default.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_guide_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_guide_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_man.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_man.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_splash_screen.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_splash_screen.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/success.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/ZProgressHUD/build/intermediates/bundles/default/res/drawable-xxhdpi-v4/success.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_setup.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_setup.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_cart.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_cart.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_fkcg.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_fkcg.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mail_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mail_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_lingshidingdan.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_lingshidingdan.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_wallet_acountadd.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_wallet_acountadd.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_pay_cancel.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_pay_cancel.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/logo_desktop.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/logo_desktop.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_pay_success.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_pay_success.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_technical_title_left.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_technical_title_left.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_cart_gray.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_cart_gray.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_chat_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_chat_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_store_yy.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_store_yy.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_apply02_highlight.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_apply02_highlight.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_login_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_login_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_coupon_home.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_coupon_home.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_evalution.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_evalution.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_help.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_help.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_moment_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_moment_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/gif_loading.gif",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/gif_loading.gif"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_circle_blue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_circle_blue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_yimaifuw.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_yimaifuw.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_user_default.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_user_default.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_mine_dropdown.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_mine_dropdown.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_woyaozhuanqian.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_woyaozhuanqian.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_coupon_home_left.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_coupon_home_left.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_register_verify_btn_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_register_verify_btn_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_receive_arrow.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_receive_arrow.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_register_verify_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_register_verify_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_card_uploaded.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_card_uploaded.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/checkbox_off.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/checkbox_off.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/backgroud_chat_sound.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/backgroud_chat_sound.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_sound.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_sound.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_shop_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_shop_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_link_add.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_link_add.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_store_notice_red.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_store_notice_red.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_circle_white.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_circle_white.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/text_login.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/text_login.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_mine_touxiang.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_mine_touxiang.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_goods_out.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_goods_out.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_add_btn.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_add_btn.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_recharge_success.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_recharge_success.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_shop_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_shop_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_view.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_view.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_checked_status.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_checked_status.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_picture.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_picture.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_location_black.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_location_black.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_goods_img_background.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_goods_img_background.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png",
+        "source": "/Users/hisense/.android/build-cache/ee8065d2f80563abe3a93eb55292a46637508742/output/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_store_display_lie.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_store_display_lie.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_tabhost_main.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_tabhost_main.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_coupon_home_right.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_coupon_home_right.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_chat_camera.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_chat_camera.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_technical_write.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_technical_write.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_mine_selected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_mine_selected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_wodeshoucang.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_wodeshoucang.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_moment_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_moment_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_wodeqiangdan.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_wodeqiangdan.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_pay_weixin.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_pay_weixin.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_tab_add.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_tab_add.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_workspace_unselected.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_workspace_unselected.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_mine_apply03_highlight.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_mine_apply03_highlight.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_guide03.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_guide03.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_store_xx.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_store_xx.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/haitxx.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/haitxx.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_cart_blue.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_cart_blue.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background_chat_send.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/background_chat_send.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_goods_cut.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_goods_cut.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_arrow_down.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_arrow_down.png"
+    },
+    {
+        "merged": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/icon_store_display_kuai.png",
+        "source": "/Users/hisense/AndroidStudioProjects/ShxBox/SchoolApp/src/main/res/drawable-xxhdpi/icon_store_display_kuai.png"
+    }
+]

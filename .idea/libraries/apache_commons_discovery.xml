@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apache-commons-discovery">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/SchoolApp/libs/apache-commons-discovery.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

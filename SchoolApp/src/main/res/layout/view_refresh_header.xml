@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@drawable/white_background">
+    <!-- <com.ant.liao.GifView android:id="@+id/gif"  
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:enabled="false" 
+        android:gravity="center"
+        android:paddingRight="20dp"/> -->
+        <ImageView android:id="@+id/gif"
+            android:layout_height="80dp"
+            android:layout_width="80dp"
+            android:gravity="center"
+       		android:paddingRight="20dp"/>
+    <TextView android:text="取经中..."
+        android:layout_height="20dp"
+        android:layout_width="wrap_content"
+        android:gravity="center"
+        android:textColor="@drawable/dark_gray_color"/>
+
+</LinearLayout>

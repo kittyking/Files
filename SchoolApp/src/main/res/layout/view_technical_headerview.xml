@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/title_common_background">
+
+    <TableLayout
+        android:id="@+id/technicalMenuGrid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/white_background"
+        android:columnCount="5"
+        android:rowCount="2"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp" >
+        <TableRow android:id="@+id/row1"
+	        android:layout_width="wrap_content"   
+	        android:layout_height="wrap_content">
+            
+        </TableRow>
+
+        <TableRow android:id="@+id/row2"
+        android:layout_width="wrap_content"   
+        android:layout_height="wrap_content">
+	        
+	    </TableRow>
+        
+        
+        
+        
+    </TableLayout>
+    
+    <RelativeLayout android:id="@+id/notice"
+        android:layout_width="match_parent" 
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/technicalMenuGrid"
+        android:background="@drawable/white_background"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_marginTop="1dp">
+        <ImageView android:id="@+id/tecHztt"
+            android:src="@drawable/background_technical_hztt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="15dp"
+            android:scaleType="fitXY"
+            android:layout_marginTop="2dp"/>
+        
+        <ImageView android:id="@+id/tecNotice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/icon_store_notice_blue"
+            android:layout_marginLeft="15dp"
+            android:layout_marginTop="2dp"
+            android:layout_toRightOf="@+id/tecHztt"
+            android:layout_centerVertical="true"
+            android:alpha="0"/>
+        <TextView android:id="@+id/tecAd"
+            android:text="便利店开业！"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@drawable/dark_gray_color"
+            android:layout_marginLeft="15dp"
+            android:gravity="center_vertical"
+            android:layout_toRightOf="@+id/tecNotice"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+    
+    <ImageView android:id="@+id/adImage"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:background="@drawable/background_technical_ad"
+        android:layout_below="@+id/notice"/>
+		
+    <LinearLayout android:id="@+id/bar"
+        android:layout_width="match_parent"
+        android:layout_height="44dp"
+        android:background="@drawable/white_background"
+        android:layout_below="@+id/adImage"
+        android:layout_marginTop="10dp">
+        <LinearLayout android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView android:text="区域"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+            <ImageView android:src="@drawable/icon_arrow_down"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="5dp"/>
+        </LinearLayout>
+        <LinearLayout android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView android:text="智能排序"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+            <ImageView android:src="@drawable/icon_arrow_down"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="5dp"/>
+        </LinearLayout>
+        <LinearLayout android:layout_height="match_parent"
+            android:layout_width="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="horizontal">
+            <TextView android:text="筛选"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"/>
+            <ImageView android:src="@drawable/icon_arrow_down"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:layout_marginLeft="5dp"/>
+        </LinearLayout>
+        
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,100 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.school.schoolapp.activity.mine.wallet.MineWalletRechargeActivity" 
+    android:orientation="vertical"
+    android:background="@drawable/title_common_background">
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:background="@drawable/actionbar_color"
+        android:gravity="center">
+        <TextView android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="账户余额（元）"/>
+        <TextView android:id="@+id/balance"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="0"
+            android:layout_marginTop="10dp"
+            android:textSize="40sp"/>
+    </LinearLayout>
+    <LinearLayout android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/white_background">
+        <LinearLayout android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="充值金额"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <EditText android:id="@+id/moneyET"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="请输入充值金额"
+                android:background="@null"
+                android:textSize="13sp"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+        </LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_height="1dp"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:layout_marginTop="11dp"
+            android:background="@drawable/title_common_background"
+            android:id="@+id/line"></LinearLayout>
+        <LinearLayout android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+            <TextView android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="充值方式"
+                android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+                android:layout_marginLeft="@dimen/user_menu_image_margin_left"/>
+            <RadioGroup android:layout_height="100dp"
+                android:layout_width="match_parent"
+                android:orientation="horizontal"
+                android:gravity="center">
+                <RadioButton android:id="@+id/zfbRB"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+	            android:layout_centerVertical="true"
+	            android:checked="true"
+	            android:drawableLeft="@drawable/icon_pay_zhifubao"/>
+                <RadioButton android:id="@+id/wxRB"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+	            android:layout_centerVertical="true"
+                android:layout_toRightOf="@+id/zfbIV"
+                android:layout_marginLeft="20dp"
+                android:drawableLeft="@drawable/icon_pay_weixin"/>
+            </RadioGroup>
+        </LinearLayout>
+        
+        
+        
+    </LinearLayout>
+    <Button android:id="@+id/rechargeBtn"
+        android:background="@drawable/background_submit_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+            android:layout_marginLeft="@dimen/user_menu_image_margin_left"
+            android:layout_marginRight="@dimen/user_menu_image_margin_left"
+            android:text="下一步"
+            android:onClick="recharge"/>
+    <TextView android:text="如有疑问请拨打 0550-3991008"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/mine_apply_info_margintopbottom"
+        android:gravity="center"
+        android:textColor="@drawable/dark_gray_color"/>
+
+</LinearLayout>
